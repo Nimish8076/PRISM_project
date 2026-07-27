@@ -1,0 +1,11 @@
+StoreID,FranchiseOwner,Region,SurveyWeek,FiscalYear,FiscalQuarter,FiscalMonth,TotalResponses,TopBoxResponses,OSAT_TopBox_Pct,FoodQuality_Score,Service_Score,Cleanliness_Score,ValueScore
+#9001,West Holdings,Test-West,10-03-2025,2025,Q1,3,200,150,75.0,4.6,4.6,4.6,4.6
+#9002,West Holdings,Test-West,10-03-2025,2025,Q1,3,200,150,75.0,4.6,4.6,4.6,4.6
+#9003,West Holdings,Test-West,10-03-2025,2025,Q1,3,200,150,75.0,4.6,4.6,4.6,4.6
+#9004,East Holdings,Test-East,10-03-2025,2025,Q1,3,200,150,75.0,4.6,4.6,4.6,4.6
+#9005,East Holdings,Test-East,10-03-2025,2025,Q1,3,200,150,75.0,4.6,4.6,4.6,4.6
+#9006,East Holdings,Test-East,10-03-2025,2025,Q1,3,200,150,75.0,4.6,4.6,4.6,4.6
+#9007,East Holdings,Test-East,10-03-2025,2025,Q1,3,200,150,75.0,3.9,4.5,4.6,4.4
+#9010,North Holdings,Test-North,10-03-2025,2025,Q1,3,200,150,75.0,4.6,4.6,4.6,4.6
+#9011,North Holdings,Test-North,10-03-2025,2025,Q1,3,200,150,75.0,4.6,4.6,4.6,4.6
+#9012,North Holdings,Test-North,10-03-2025,2025,Q1,3,200,150,75.0,4.6,4.6,4.6,4.6

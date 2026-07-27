@@ -1,0 +1,1048 @@
+AuditID,StoreID,FranchiseOwner,Region,AuditDate,FiscalYear,FiscalQuarter,FSA_Score,FirstPriorityFinding,SecondPriorityFinding,AuditorCode
+AUD-10001,#8001,Adelphi Holdings,Northeast,2024-03-18,2024,Q1,88,False,False,STR-01
+AUD-10002,#8001,Adelphi Holdings,Northeast,2024-05-31,2024,Q2,86,False,False,STR-02
+AUD-10003,#8001,Adelphi Holdings,Northeast,2024-09-15,2024,Q3,88,False,False,STR-02
+AUD-10004,#8001,Adelphi Holdings,Northeast,2024-12-15,2024,Q4,86,False,True,STR-01
+AUD-10005,#8001,Adelphi Holdings,Northeast,2025-03-03,2025,Q1,87,False,False,STR-05
+AUD-10006,#8001,Adelphi Holdings,Northeast,2025-06-14,2025,Q2,86,False,False,STR-03
+AUD-10007,#8001,Adelphi Holdings,Northeast,2025-09-19,2025,Q3,88,False,False,STR-03
+AUD-10008,#8001,Adelphi Holdings,Northeast,2025-11-28,2025,Q4,87,False,True,STR-01
+AUD-10009,#8001,Adelphi Holdings,Northeast,2026-05-04,2026,Q2,88,False,False,STR-03
+AUD-10010,#8002,Adelphi Holdings,Northeast,2024-03-09,2024,Q1,87,False,False,STR-01
+AUD-10011,#8002,Adelphi Holdings,Northeast,2024-06-19,2024,Q2,86,False,False,STR-05
+AUD-10012,#8002,Adelphi Holdings,Northeast,2024-09-24,2024,Q3,88,False,False,STR-04
+AUD-10013,#8002,Adelphi Holdings,Northeast,2024-12-20,2024,Q4,87,False,False,STR-03
+AUD-10014,#8002,Adelphi Holdings,Northeast,2025-06-23,2025,Q2,87,False,False,STR-04
+AUD-10015,#8002,Adelphi Holdings,Northeast,2025-09-11,2025,Q3,85,False,False,STR-04
+AUD-10016,#8002,Adelphi Holdings,Northeast,2025-12-11,2025,Q4,85,False,False,STR-03
+AUD-10017,#8002,Adelphi Holdings,Northeast,2026-03-04,2026,Q1,88,False,False,STR-05
+AUD-10018,#8002,Adelphi Holdings,Northeast,2026-05-25,2026,Q2,86,False,False,STR-01
+AUD-10019,#8003,Adelphi Holdings,Northeast,2024-03-13,2024,Q1,85,False,False,STR-01
+AUD-10020,#8003,Adelphi Holdings,Northeast,2024-06-21,2024,Q2,86,False,False,STR-04
+AUD-10021,#8003,Adelphi Holdings,Northeast,2024-09-10,2024,Q3,87,False,False,STR-05
+AUD-10022,#8003,Adelphi Holdings,Northeast,2024-12-27,2024,Q4,87,False,False,STR-02
+AUD-10023,#8003,Adelphi Holdings,Northeast,2025-03-15,2025,Q1,85,True,False,STR-01
+AUD-10024,#8003,Adelphi Holdings,Northeast,2025-06-09,2025,Q2,86,False,False,STR-04
+AUD-10025,#8003,Adelphi Holdings,Northeast,2025-12-06,2025,Q4,87,False,False,STR-01
+AUD-10026,#8003,Adelphi Holdings,Northeast,2026-03-11,2026,Q1,85,True,False,STR-04
+AUD-10027,#8003,Adelphi Holdings,Northeast,2026-05-26,2026,Q2,87,False,True,STR-01
+AUD-10028,#8004,Adelphi Holdings,Northeast,2024-03-13,2024,Q1,86,False,True,STR-03
+AUD-10029,#8004,Adelphi Holdings,Northeast,2024-09-17,2024,Q3,86,False,False,STR-03
+AUD-10030,#8004,Adelphi Holdings,Northeast,2024-12-07,2024,Q4,87,False,False,STR-05
+AUD-10031,#8004,Adelphi Holdings,Northeast,2025-03-15,2025,Q1,87,False,False,STR-02
+AUD-10032,#8004,Adelphi Holdings,Northeast,2025-06-02,2025,Q2,86,False,True,STR-03
+AUD-10033,#8004,Adelphi Holdings,Northeast,2025-09-14,2025,Q3,86,False,True,STR-04
+AUD-10034,#8004,Adelphi Holdings,Northeast,2025-12-24,2025,Q4,87,False,False,STR-01
+AUD-10035,#8004,Adelphi Holdings,Northeast,2026-03-11,2026,Q1,86,False,False,STR-04
+AUD-10036,#8004,Adelphi Holdings,Northeast,2026-05-28,2026,Q2,86,False,False,STR-02
+AUD-10037,#8005,Boardwalk Restaurants,Northeast,2024-03-15,2024,Q1,87,False,False,STR-04
+AUD-10038,#8005,Boardwalk Restaurants,Northeast,2024-06-05,2024,Q2,88,False,False,STR-04
+AUD-10039,#8005,Boardwalk Restaurants,Northeast,2024-09-09,2024,Q3,87,False,False,STR-03
+AUD-10040,#8005,Boardwalk Restaurants,Northeast,2024-12-10,2024,Q4,86,False,False,STR-03
+AUD-10041,#8005,Boardwalk Restaurants,Northeast,2025-06-15,2025,Q2,89,False,False,STR-02
+AUD-10042,#8005,Boardwalk Restaurants,Northeast,2025-09-05,2025,Q3,88,False,False,STR-02
+AUD-10043,#8005,Boardwalk Restaurants,Northeast,2025-12-11,2025,Q4,87,False,False,STR-03
+AUD-10044,#8005,Boardwalk Restaurants,Northeast,2026-03-27,2026,Q1,88,False,False,STR-01
+AUD-10045,#8005,Boardwalk Restaurants,Northeast,2026-05-16,2026,Q2,88,False,False,STR-03
+AUD-10046,#8006,Boardwalk Restaurants,Northeast,2024-03-06,2024,Q1,91,False,True,STR-02
+AUD-10047,#8006,Boardwalk Restaurants,Northeast,2024-06-28,2024,Q2,92,False,False,STR-05
+AUD-10048,#8006,Boardwalk Restaurants,Northeast,2024-08-30,2024,Q3,92,True,True,STR-02
+AUD-10049,#8006,Boardwalk Restaurants,Northeast,2024-11-30,2024,Q4,92,False,True,STR-04
+AUD-10050,#8006,Boardwalk Restaurants,Northeast,2025-02-28,2025,Q1,91,False,False,STR-03
+AUD-10051,#8006,Boardwalk Restaurants,Northeast,2025-06-03,2025,Q2,92,False,False,STR-05
+AUD-10052,#8006,Boardwalk Restaurants,Northeast,2025-09-11,2025,Q3,90,False,False,STR-05
+AUD-10053,#8006,Boardwalk Restaurants,Northeast,2026-03-04,2026,Q1,90,False,False,STR-02
+AUD-10054,#8006,Boardwalk Restaurants,Northeast,2026-05-04,2026,Q2,90,False,False,STR-02
+AUD-10055,#8007,Boardwalk Restaurants,Northeast,2024-03-05,2024,Q1,91,False,True,STR-03
+AUD-10056,#8007,Boardwalk Restaurants,Northeast,2024-06-15,2024,Q2,91,False,False,STR-05
+AUD-10057,#8007,Boardwalk Restaurants,Northeast,2024-08-31,2024,Q3,90,False,False,STR-02
+AUD-10058,#8007,Boardwalk Restaurants,Northeast,2024-12-08,2024,Q4,91,False,False,STR-05
+AUD-10059,#8007,Boardwalk Restaurants,Northeast,2025-03-17,2025,Q1,91,False,True,STR-03
+AUD-10060,#8007,Boardwalk Restaurants,Northeast,2025-06-07,2025,Q2,91,False,False,STR-03
+AUD-10061,#8007,Boardwalk Restaurants,Northeast,2025-09-10,2025,Q3,89,True,False,STR-01
+AUD-10062,#8007,Boardwalk Restaurants,Northeast,2025-12-15,2025,Q4,90,False,False,STR-02
+AUD-10063,#8007,Boardwalk Restaurants,Northeast,2026-03-13,2026,Q1,89,False,False,STR-05
+AUD-10064,#8007,Boardwalk Restaurants,Northeast,2026-05-03,2026,Q2,89,False,False,STR-04
+AUD-10065,#8008,Boardwalk Restaurants,Northeast,2024-03-04,2024,Q1,91,False,False,STR-02
+AUD-10066,#8008,Boardwalk Restaurants,Northeast,2024-06-04,2024,Q2,90,False,False,STR-01
+AUD-10067,#8008,Boardwalk Restaurants,Northeast,2024-09-10,2024,Q3,92,False,False,STR-03
+AUD-10068,#8008,Boardwalk Restaurants,Northeast,2025-03-02,2025,Q1,92,False,False,STR-01
+AUD-10069,#8008,Boardwalk Restaurants,Northeast,2025-06-20,2025,Q2,93,False,False,STR-04
+AUD-10070,#8008,Boardwalk Restaurants,Northeast,2025-09-11,2025,Q3,92,False,False,STR-05
+AUD-10071,#8008,Boardwalk Restaurants,Northeast,2025-11-29,2025,Q4,92,False,False,STR-05
+AUD-10072,#8008,Boardwalk Restaurants,Northeast,2026-03-10,2026,Q1,91,False,True,STR-04
+AUD-10073,#8008,Boardwalk Restaurants,Northeast,2026-05-02,2026,Q2,92,False,False,STR-05
+AUD-10074,#8009,Boardwalk Restaurants,Northeast,2024-03-16,2024,Q1,87,False,False,STR-01
+AUD-10075,#8009,Boardwalk Restaurants,Northeast,2024-06-12,2024,Q2,86,False,False,STR-04
+AUD-10076,#8009,Boardwalk Restaurants,Northeast,2024-09-13,2024,Q3,85,False,False,STR-01
+AUD-10077,#8009,Boardwalk Restaurants,Northeast,2024-12-14,2024,Q4,87,False,False,STR-02
+AUD-10078,#8009,Boardwalk Restaurants,Northeast,2025-03-16,2025,Q1,86,False,False,STR-04
+AUD-10079,#8009,Boardwalk Restaurants,Northeast,2025-06-14,2025,Q2,86,False,False,STR-05
+AUD-10080,#8009,Boardwalk Restaurants,Northeast,2025-09-26,2025,Q3,87,False,True,STR-02
+AUD-10081,#8009,Boardwalk Restaurants,Northeast,2025-12-10,2025,Q4,86,False,True,STR-02
+AUD-10082,#8009,Boardwalk Restaurants,Northeast,2026-03-05,2026,Q1,86,False,True,STR-02
+AUD-10083,#8009,Boardwalk Restaurants,Northeast,2026-05-14,2026,Q2,87,False,False,STR-03
+AUD-10084,#8010,Boardwalk Restaurants,Northeast,2024-03-15,2024,Q1,91,False,False,STR-04
+AUD-10085,#8010,Boardwalk Restaurants,Northeast,2024-06-24,2024,Q2,92,False,True,STR-02
+AUD-10086,#8010,Boardwalk Restaurants,Northeast,2024-09-27,2024,Q3,92,True,True,STR-05
+AUD-10087,#8010,Boardwalk Restaurants,Northeast,2024-12-23,2024,Q4,92,False,False,STR-05
+AUD-10088,#8010,Boardwalk Restaurants,Northeast,2025-03-22,2025,Q1,93,False,True,STR-02
+AUD-10089,#8010,Boardwalk Restaurants,Northeast,2025-09-01,2025,Q3,93,False,False,STR-03
+AUD-10090,#8010,Boardwalk Restaurants,Northeast,2025-11-29,2025,Q4,91,False,False,STR-05
+AUD-10091,#8010,Boardwalk Restaurants,Northeast,2026-05-23,2026,Q2,92,False,False,STR-05
+AUD-10092,#8011,Cedar Hill Group,Northeast,2024-03-03,2024,Q1,94,False,True,STR-02
+AUD-10093,#8011,Cedar Hill Group,Northeast,2024-09-03,2024,Q3,93,True,False,STR-02
+AUD-10094,#8011,Cedar Hill Group,Northeast,2024-12-10,2024,Q4,95,False,False,STR-04
+AUD-10095,#8011,Cedar Hill Group,Northeast,2025-03-03,2025,Q1,93,False,True,STR-03
+AUD-10096,#8011,Cedar Hill Group,Northeast,2025-05-30,2025,Q2,94,False,False,STR-05
+AUD-10097,#8011,Cedar Hill Group,Northeast,2025-09-02,2025,Q3,95,False,False,STR-03
+AUD-10098,#8011,Cedar Hill Group,Northeast,2025-12-14,2025,Q4,95,False,False,STR-05
+AUD-10099,#8011,Cedar Hill Group,Northeast,2026-03-17,2026,Q1,95,False,False,STR-04
+AUD-10100,#8012,Cedar Hill Group,Northeast,2024-03-15,2024,Q1,84,True,False,STR-02
+AUD-10101,#8012,Cedar Hill Group,Northeast,2024-06-10,2024,Q2,85,False,True,STR-05
+AUD-10102,#8012,Cedar Hill Group,Northeast,2024-09-19,2024,Q3,84,False,False,STR-03
+AUD-10103,#8012,Cedar Hill Group,Northeast,2025-03-07,2025,Q1,86,False,False,STR-01
+AUD-10104,#8012,Cedar Hill Group,Northeast,2025-06-25,2025,Q2,86,False,False,STR-02
+AUD-10105,#8012,Cedar Hill Group,Northeast,2025-09-20,2025,Q3,85,False,False,STR-01
+AUD-10106,#8012,Cedar Hill Group,Northeast,2025-12-11,2025,Q4,86,False,True,STR-03
+AUD-10107,#8012,Cedar Hill Group,Northeast,2026-05-15,2026,Q2,86,False,False,STR-04
+AUD-10108,#8013,Cedar Hill Group,Northeast,2024-03-20,2024,Q1,85,False,False,STR-04
+AUD-10109,#8013,Cedar Hill Group,Northeast,2024-06-17,2024,Q2,86,False,False,STR-05
+AUD-10110,#8013,Cedar Hill Group,Northeast,2024-09-10,2024,Q3,86,False,False,STR-05
+AUD-10111,#8013,Cedar Hill Group,Northeast,2024-12-11,2024,Q4,85,False,False,STR-02
+AUD-10112,#8013,Cedar Hill Group,Northeast,2025-03-15,2025,Q1,86,False,False,STR-05
+AUD-10113,#8013,Cedar Hill Group,Northeast,2025-06-07,2025,Q2,84,False,False,STR-01
+AUD-10114,#8013,Cedar Hill Group,Northeast,2025-09-15,2025,Q3,85,False,False,STR-01
+AUD-10115,#8013,Cedar Hill Group,Northeast,2025-11-28,2025,Q4,86,False,False,STR-05
+AUD-10116,#8013,Cedar Hill Group,Northeast,2026-03-19,2026,Q1,85,False,True,STR-01
+AUD-10117,#8013,Cedar Hill Group,Northeast,2026-05-03,2026,Q2,86,False,False,STR-04
+AUD-10118,#8014,Cedar Hill Group,Northeast,2024-03-29,2024,Q1,93,False,False,STR-04
+AUD-10119,#8014,Cedar Hill Group,Northeast,2024-06-09,2024,Q2,93,False,False,STR-04
+AUD-10120,#8014,Cedar Hill Group,Northeast,2024-09-05,2024,Q3,94,False,False,STR-01
+AUD-10121,#8014,Cedar Hill Group,Northeast,2025-03-17,2025,Q1,92,False,False,STR-01
+AUD-10122,#8014,Cedar Hill Group,Northeast,2025-06-24,2025,Q2,93,False,False,STR-03
+AUD-10123,#8014,Cedar Hill Group,Northeast,2025-09-13,2025,Q3,94,False,False,STR-02
+AUD-10124,#8014,Cedar Hill Group,Northeast,2025-12-05,2025,Q4,92,False,True,STR-04
+AUD-10125,#8014,Cedar Hill Group,Northeast,2026-03-13,2026,Q1,94,False,False,STR-05
+AUD-10126,#8014,Cedar Hill Group,Northeast,2026-05-20,2026,Q2,94,False,False,STR-05
+AUD-10127,#8015,Cedar Hill Group,Northeast,2024-03-19,2024,Q1,94,False,False,STR-04
+AUD-10128,#8015,Cedar Hill Group,Northeast,2024-06-18,2024,Q2,93,False,False,STR-03
+AUD-10129,#8015,Cedar Hill Group,Northeast,2024-12-24,2024,Q4,93,False,False,STR-04
+AUD-10130,#8015,Cedar Hill Group,Northeast,2025-03-25,2025,Q1,95,True,True,STR-05
+AUD-10131,#8015,Cedar Hill Group,Northeast,2025-06-22,2025,Q2,94,False,False,STR-02
+AUD-10132,#8015,Cedar Hill Group,Northeast,2025-09-20,2025,Q3,94,False,False,STR-03
+AUD-10133,#8015,Cedar Hill Group,Northeast,2026-03-19,2026,Q1,92,False,False,STR-05
+AUD-10134,#8015,Cedar Hill Group,Northeast,2026-05-23,2026,Q2,94,False,True,STR-02
+AUD-10135,#8016,Driftwood Foods,Northeast,2024-03-22,2024,Q1,86,False,False,STR-01
+AUD-10136,#8016,Driftwood Foods,Northeast,2024-09-01,2024,Q3,86,False,False,STR-04
+AUD-10137,#8016,Driftwood Foods,Northeast,2024-12-27,2024,Q4,85,False,False,STR-03
+AUD-10138,#8016,Driftwood Foods,Northeast,2025-03-15,2025,Q1,86,False,True,STR-05
+AUD-10139,#8016,Driftwood Foods,Northeast,2025-06-08,2025,Q2,86,False,False,STR-04
+AUD-10140,#8016,Driftwood Foods,Northeast,2025-09-16,2025,Q3,85,False,True,STR-01
+AUD-10141,#8016,Driftwood Foods,Northeast,2025-11-28,2025,Q4,86,False,False,STR-01
+AUD-10142,#8016,Driftwood Foods,Northeast,2026-03-25,2026,Q1,86,True,False,STR-04
+AUD-10143,#8016,Driftwood Foods,Northeast,2026-05-19,2026,Q2,86,False,True,STR-04
+AUD-10144,#8017,Driftwood Foods,Northeast,2024-03-27,2024,Q1,94,True,False,STR-03
+AUD-10145,#8017,Driftwood Foods,Northeast,2024-06-08,2024,Q2,95,False,True,STR-03
+AUD-10146,#8017,Driftwood Foods,Northeast,2024-09-17,2024,Q3,94,False,False,STR-02
+AUD-10147,#8017,Driftwood Foods,Northeast,2024-12-18,2024,Q4,94,False,False,STR-02
+AUD-10148,#8017,Driftwood Foods,Northeast,2025-03-23,2025,Q1,96,False,False,STR-02
+AUD-10149,#8017,Driftwood Foods,Northeast,2025-06-24,2025,Q2,95,False,False,STR-03
+AUD-10150,#8017,Driftwood Foods,Northeast,2025-09-12,2025,Q3,94,False,True,STR-05
+AUD-10151,#8017,Driftwood Foods,Northeast,2025-12-14,2025,Q4,95,False,False,STR-02
+AUD-10152,#8017,Driftwood Foods,Northeast,2026-05-17,2026,Q2,93,False,False,STR-04
+AUD-10153,#8018,Driftwood Foods,Northeast,2024-03-11,2024,Q1,86,False,False,STR-04
+AUD-10154,#8018,Driftwood Foods,Northeast,2024-06-13,2024,Q2,85,False,False,STR-03
+AUD-10155,#8018,Driftwood Foods,Northeast,2024-09-18,2024,Q3,84,False,False,STR-03
+AUD-10156,#8018,Driftwood Foods,Northeast,2024-12-07,2024,Q4,86,False,False,STR-04
+AUD-10157,#8018,Driftwood Foods,Northeast,2025-03-15,2025,Q1,85,True,True,STR-02
+AUD-10158,#8018,Driftwood Foods,Northeast,2025-06-10,2025,Q2,85,False,True,STR-01
+AUD-10159,#8018,Driftwood Foods,Northeast,2025-09-02,2025,Q3,85,False,False,STR-04
+AUD-10160,#8018,Driftwood Foods,Northeast,2025-12-10,2025,Q4,86,False,False,STR-02
+AUD-10161,#8018,Driftwood Foods,Northeast,2026-03-22,2026,Q1,85,False,False,STR-04
+AUD-10162,#8019,Evergreen Capital,Northeast,2024-05-31,2024,Q2,82,False,False,STR-05
+AUD-10163,#8019,Evergreen Capital,Northeast,2024-09-08,2024,Q3,82,False,False,STR-04
+AUD-10164,#8019,Evergreen Capital,Northeast,2024-12-21,2024,Q4,82,False,False,STR-04
+AUD-10165,#8019,Evergreen Capital,Northeast,2025-03-01,2025,Q1,82,False,False,STR-01
+AUD-10166,#8019,Evergreen Capital,Northeast,2025-06-08,2025,Q2,82,False,False,STR-01
+AUD-10167,#8019,Evergreen Capital,Northeast,2025-09-11,2025,Q3,83,False,False,STR-03
+AUD-10168,#8019,Evergreen Capital,Northeast,2025-12-24,2025,Q4,84,False,False,STR-03
+AUD-10169,#8019,Evergreen Capital,Northeast,2026-03-03,2026,Q1,84,False,True,STR-01
+AUD-10170,#8019,Evergreen Capital,Northeast,2026-05-14,2026,Q2,82,False,False,STR-05
+AUD-10171,#8020,Evergreen Capital,Northeast,2024-03-19,2024,Q1,86,False,False,STR-05
+AUD-10172,#8020,Evergreen Capital,Northeast,2024-06-02,2024,Q2,86,False,False,STR-04
+AUD-10173,#8020,Evergreen Capital,Northeast,2024-09-04,2024,Q3,87,False,False,STR-01
+AUD-10174,#8020,Evergreen Capital,Northeast,2024-11-29,2024,Q4,87,False,False,STR-04
+AUD-10175,#8020,Evergreen Capital,Northeast,2025-03-26,2025,Q1,86,False,False,STR-05
+AUD-10176,#8020,Evergreen Capital,Northeast,2025-06-05,2025,Q2,85,False,False,STR-02
+AUD-10177,#8020,Evergreen Capital,Northeast,2025-09-23,2025,Q3,87,False,False,STR-01
+AUD-10178,#8020,Evergreen Capital,Northeast,2025-12-11,2025,Q4,87,False,False,STR-05
+AUD-10179,#8020,Evergreen Capital,Northeast,2026-03-15,2026,Q1,87,False,True,STR-03
+AUD-10180,#8020,Evergreen Capital,Northeast,2026-05-11,2026,Q2,88,False,False,STR-04
+AUD-10181,#8021,Evergreen Capital,Northeast,2024-03-18,2024,Q1,82,False,False,STR-02
+AUD-10182,#8021,Evergreen Capital,Northeast,2024-05-31,2024,Q2,82,False,True,STR-05
+AUD-10183,#8021,Evergreen Capital,Northeast,2024-09-05,2024,Q3,82,False,False,STR-01
+AUD-10184,#8021,Evergreen Capital,Northeast,2024-12-23,2024,Q4,82,True,False,STR-04
+AUD-10185,#8021,Evergreen Capital,Northeast,2025-03-16,2025,Q1,81,False,False,STR-01
+AUD-10186,#8021,Evergreen Capital,Northeast,2025-06-24,2025,Q2,80,False,False,STR-01
+AUD-10187,#8021,Evergreen Capital,Northeast,2025-09-22,2025,Q3,81,False,False,STR-05
+AUD-10188,#8021,Evergreen Capital,Northeast,2026-03-24,2026,Q1,82,False,False,STR-03
+AUD-10189,#8021,Evergreen Capital,Northeast,2026-05-27,2026,Q2,82,False,False,STR-04
+AUD-10190,#8022,Evergreen Capital,Northeast,2024-03-27,2024,Q1,92,False,False,STR-04
+AUD-10191,#8022,Evergreen Capital,Northeast,2024-06-04,2024,Q2,89,False,True,STR-01
+AUD-10192,#8022,Evergreen Capital,Northeast,2024-11-29,2024,Q4,90,False,False,STR-01
+AUD-10193,#8022,Evergreen Capital,Northeast,2025-03-02,2025,Q1,91,False,False,STR-01
+AUD-10194,#8022,Evergreen Capital,Northeast,2025-06-23,2025,Q2,89,False,False,STR-02
+AUD-10195,#8022,Evergreen Capital,Northeast,2025-12-12,2025,Q4,92,False,False,STR-03
+AUD-10196,#8022,Evergreen Capital,Northeast,2026-03-16,2026,Q1,91,False,False,STR-05
+AUD-10197,#8023,Evergreen Capital,Northeast,2024-06-10,2024,Q2,89,False,False,STR-03
+AUD-10198,#8023,Evergreen Capital,Northeast,2024-09-01,2024,Q3,88,False,True,STR-02
+AUD-10199,#8023,Evergreen Capital,Northeast,2024-12-16,2024,Q4,90,False,True,STR-02
+AUD-10200,#8023,Evergreen Capital,Northeast,2025-03-24,2025,Q1,89,True,False,STR-04
+AUD-10201,#8023,Evergreen Capital,Northeast,2025-05-31,2025,Q2,88,False,False,STR-04
+AUD-10202,#8023,Evergreen Capital,Northeast,2025-12-17,2025,Q4,89,False,True,STR-01
+AUD-10203,#8023,Evergreen Capital,Northeast,2026-03-05,2026,Q1,88,False,False,STR-02
+AUD-10204,#8023,Evergreen Capital,Northeast,2026-05-30,2026,Q2,87,True,True,STR-01
+AUD-10205,#8024,Evergreen Capital,Northeast,2024-03-21,2024,Q1,85,False,False,STR-05
+AUD-10206,#8024,Evergreen Capital,Northeast,2024-09-09,2024,Q3,84,False,False,STR-02
+AUD-10207,#8024,Evergreen Capital,Northeast,2024-12-07,2024,Q4,84,False,False,STR-01
+AUD-10208,#8024,Evergreen Capital,Northeast,2025-03-26,2025,Q1,85,False,True,STR-05
+AUD-10209,#8024,Evergreen Capital,Northeast,2025-06-27,2025,Q2,84,False,False,STR-04
+AUD-10210,#8024,Evergreen Capital,Northeast,2025-12-19,2025,Q4,85,False,False,STR-03
+AUD-10211,#8024,Evergreen Capital,Northeast,2026-03-23,2026,Q1,83,False,True,STR-02
+AUD-10212,#8024,Evergreen Capital,Northeast,2026-05-30,2026,Q2,84,False,True,STR-04
+AUD-10213,#8025,Evergreen Capital,Northeast,2024-03-12,2024,Q1,82,False,False,STR-04
+AUD-10214,#8025,Evergreen Capital,Northeast,2024-06-01,2024,Q2,82,False,False,STR-04
+AUD-10215,#8025,Evergreen Capital,Northeast,2024-09-01,2024,Q3,83,False,False,STR-05
+AUD-10216,#8025,Evergreen Capital,Northeast,2024-12-26,2024,Q4,82,False,True,STR-03
+AUD-10217,#8025,Evergreen Capital,Northeast,2025-03-28,2025,Q1,81,False,False,STR-03
+AUD-10218,#8025,Evergreen Capital,Northeast,2025-05-31,2025,Q2,82,False,False,STR-03
+AUD-10219,#8025,Evergreen Capital,Northeast,2025-09-12,2025,Q3,80,True,True,STR-03
+AUD-10220,#8025,Evergreen Capital,Northeast,2025-12-08,2025,Q4,81,False,True,STR-01
+AUD-10221,#8025,Evergreen Capital,Northeast,2026-03-04,2026,Q1,81,False,False,STR-04
+AUD-10222,#8025,Evergreen Capital,Northeast,2026-05-16,2026,Q2,83,False,False,STR-05
+AUD-10223,#8026,Fairmount Brands,Mid-Atlantic,2024-03-02,2024,Q1,84,False,False,STR-05
+AUD-10224,#8026,Fairmount Brands,Mid-Atlantic,2024-06-14,2024,Q2,84,False,False,STR-03
+AUD-10225,#8026,Fairmount Brands,Mid-Atlantic,2024-09-11,2024,Q3,83,False,True,STR-04
+AUD-10226,#8026,Fairmount Brands,Mid-Atlantic,2025-03-06,2025,Q1,81,True,False,STR-04
+AUD-10227,#8026,Fairmount Brands,Mid-Atlantic,2025-06-08,2025,Q2,83,False,False,STR-03
+AUD-10228,#8026,Fairmount Brands,Mid-Atlantic,2025-09-25,2025,Q3,83,False,False,STR-05
+AUD-10229,#8026,Fairmount Brands,Mid-Atlantic,2025-12-10,2025,Q4,84,False,True,STR-02
+AUD-10230,#8026,Fairmount Brands,Mid-Atlantic,2026-03-03,2026,Q1,83,False,False,STR-02
+AUD-10231,#8026,Fairmount Brands,Mid-Atlantic,2026-05-18,2026,Q2,83,False,False,STR-03
+AUD-10232,#8027,Fairmount Brands,Mid-Atlantic,2024-06-17,2024,Q2,85,False,False,STR-02
+AUD-10233,#8027,Fairmount Brands,Mid-Atlantic,2024-09-22,2024,Q3,86,True,False,STR-01
+AUD-10234,#8027,Fairmount Brands,Mid-Atlantic,2024-12-15,2024,Q4,86,False,False,STR-05
+AUD-10235,#8027,Fairmount Brands,Mid-Atlantic,2025-03-03,2025,Q1,87,False,False,STR-01
+AUD-10236,#8027,Fairmount Brands,Mid-Atlantic,2025-06-25,2025,Q2,87,False,True,STR-01
+AUD-10237,#8027,Fairmount Brands,Mid-Atlantic,2025-09-22,2025,Q3,85,False,False,STR-01
+AUD-10238,#8027,Fairmount Brands,Mid-Atlantic,2026-03-26,2026,Q1,85,False,False,STR-04
+AUD-10239,#8028,Fairmount Brands,Mid-Atlantic,2024-06-19,2024,Q2,86,False,False,STR-05
+AUD-10240,#8028,Fairmount Brands,Mid-Atlantic,2024-09-10,2024,Q3,87,False,True,STR-03
+AUD-10241,#8028,Fairmount Brands,Mid-Atlantic,2024-12-22,2024,Q4,88,False,False,STR-03
+AUD-10242,#8028,Fairmount Brands,Mid-Atlantic,2025-03-21,2025,Q1,87,False,False,STR-01
+AUD-10243,#8028,Fairmount Brands,Mid-Atlantic,2025-06-24,2025,Q2,87,False,False,STR-03
+AUD-10244,#8028,Fairmount Brands,Mid-Atlantic,2025-09-01,2025,Q3,89,False,False,STR-01
+AUD-10245,#8028,Fairmount Brands,Mid-Atlantic,2025-12-08,2025,Q4,89,False,False,STR-01
+AUD-10246,#8028,Fairmount Brands,Mid-Atlantic,2026-03-02,2026,Q1,87,False,False,STR-03
+AUD-10247,#8029,Fairmount Brands,Mid-Atlantic,2024-03-15,2024,Q1,91,False,False,STR-01
+AUD-10248,#8029,Fairmount Brands,Mid-Atlantic,2024-06-28,2024,Q2,88,False,False,STR-03
+AUD-10249,#8029,Fairmount Brands,Mid-Atlantic,2024-09-19,2024,Q3,90,False,True,STR-02
+AUD-10250,#8029,Fairmount Brands,Mid-Atlantic,2024-12-08,2024,Q4,89,False,False,STR-05
+AUD-10251,#8029,Fairmount Brands,Mid-Atlantic,2025-03-25,2025,Q1,90,False,False,STR-05
+AUD-10252,#8029,Fairmount Brands,Mid-Atlantic,2025-06-07,2025,Q2,91,True,False,STR-03
+AUD-10253,#8029,Fairmount Brands,Mid-Atlantic,2025-09-08,2025,Q3,89,False,False,STR-04
+AUD-10254,#8029,Fairmount Brands,Mid-Atlantic,2025-12-16,2025,Q4,88,False,False,STR-02
+AUD-10255,#8029,Fairmount Brands,Mid-Atlantic,2026-03-10,2026,Q1,88,False,True,STR-03
+AUD-10256,#8029,Fairmount Brands,Mid-Atlantic,2026-05-10,2026,Q2,90,False,False,STR-04
+AUD-10257,#8030,Fairmount Brands,Mid-Atlantic,2024-06-18,2024,Q2,84,False,False,STR-05
+AUD-10258,#8030,Fairmount Brands,Mid-Atlantic,2024-12-18,2024,Q4,83,False,False,STR-01
+AUD-10259,#8030,Fairmount Brands,Mid-Atlantic,2025-06-27,2025,Q2,83,True,True,STR-04
+AUD-10260,#8030,Fairmount Brands,Mid-Atlantic,2025-09-16,2025,Q3,82,False,True,STR-04
+AUD-10261,#8030,Fairmount Brands,Mid-Atlantic,2025-12-17,2025,Q4,85,False,True,STR-05
+AUD-10262,#8030,Fairmount Brands,Mid-Atlantic,2026-03-21,2026,Q1,84,False,False,STR-01
+AUD-10263,#8031,Garden State Subs,Mid-Atlantic,2024-03-20,2024,Q1,86,False,False,STR-04
+AUD-10264,#8031,Garden State Subs,Mid-Atlantic,2024-09-23,2024,Q3,88,False,False,STR-01
+AUD-10265,#8031,Garden State Subs,Mid-Atlantic,2025-09-01,2025,Q3,87,False,False,STR-02
+AUD-10266,#8031,Garden State Subs,Mid-Atlantic,2025-12-24,2025,Q4,87,False,False,STR-03
+AUD-10267,#8031,Garden State Subs,Mid-Atlantic,2026-03-22,2026,Q1,88,False,True,STR-04
+AUD-10268,#8032,Garden State Subs,Mid-Atlantic,2024-03-07,2024,Q1,85,False,False,STR-03
+AUD-10269,#8032,Garden State Subs,Mid-Atlantic,2024-06-18,2024,Q2,84,False,False,STR-03
+AUD-10270,#8032,Garden State Subs,Mid-Atlantic,2024-09-08,2024,Q3,86,True,False,STR-04
+AUD-10271,#8032,Garden State Subs,Mid-Atlantic,2024-11-29,2024,Q4,85,False,False,STR-02
+AUD-10272,#8032,Garden State Subs,Mid-Atlantic,2025-03-10,2025,Q1,87,False,False,STR-01
+AUD-10273,#8032,Garden State Subs,Mid-Atlantic,2025-06-19,2025,Q2,85,False,False,STR-02
+AUD-10274,#8032,Garden State Subs,Mid-Atlantic,2025-09-12,2025,Q3,84,False,False,STR-03
+AUD-10275,#8032,Garden State Subs,Mid-Atlantic,2026-03-07,2026,Q1,85,False,False,STR-01
+AUD-10276,#8032,Garden State Subs,Mid-Atlantic,2026-05-20,2026,Q2,86,False,True,STR-05
+AUD-10277,#8033,Garden State Subs,Mid-Atlantic,2024-03-24,2024,Q1,86,False,False,STR-02
+AUD-10278,#8033,Garden State Subs,Mid-Atlantic,2024-06-23,2024,Q2,86,False,False,STR-05
+AUD-10279,#8033,Garden State Subs,Mid-Atlantic,2024-09-14,2024,Q3,86,False,True,STR-02
+AUD-10280,#8033,Garden State Subs,Mid-Atlantic,2024-12-06,2024,Q4,87,False,False,STR-05
+AUD-10281,#8033,Garden State Subs,Mid-Atlantic,2025-03-23,2025,Q1,86,False,False,STR-01
+AUD-10282,#8033,Garden State Subs,Mid-Atlantic,2025-06-27,2025,Q2,87,False,False,STR-04
+AUD-10283,#8033,Garden State Subs,Mid-Atlantic,2025-09-05,2025,Q3,84,True,False,STR-02
+AUD-10284,#8033,Garden State Subs,Mid-Atlantic,2025-12-10,2025,Q4,84,False,False,STR-03
+AUD-10285,#8033,Garden State Subs,Mid-Atlantic,2026-03-22,2026,Q1,85,False,False,STR-02
+AUD-10286,#8033,Garden State Subs,Mid-Atlantic,2026-05-28,2026,Q2,86,False,False,STR-05
+AUD-10287,#8034,Garden State Subs,Mid-Atlantic,2024-06-01,2024,Q2,83,False,True,STR-05
+AUD-10288,#8034,Garden State Subs,Mid-Atlantic,2024-09-23,2024,Q3,84,False,False,STR-05
+AUD-10289,#8034,Garden State Subs,Mid-Atlantic,2024-12-05,2024,Q4,83,False,False,STR-04
+AUD-10290,#8034,Garden State Subs,Mid-Atlantic,2025-03-02,2025,Q1,85,False,True,STR-05
+AUD-10291,#8034,Garden State Subs,Mid-Atlantic,2025-06-03,2025,Q2,83,False,False,STR-05
+AUD-10292,#8034,Garden State Subs,Mid-Atlantic,2025-09-15,2025,Q3,84,False,True,STR-04
+AUD-10293,#8034,Garden State Subs,Mid-Atlantic,2025-12-26,2025,Q4,83,False,False,STR-01
+AUD-10294,#8034,Garden State Subs,Mid-Atlantic,2026-03-26,2026,Q1,85,False,False,STR-04
+AUD-10295,#8035,Harbor Restaurants,Mid-Atlantic,2024-03-20,2024,Q1,80,False,False,STR-05
+AUD-10296,#8035,Harbor Restaurants,Mid-Atlantic,2024-06-09,2024,Q2,80,False,False,STR-05
+AUD-10297,#8035,Harbor Restaurants,Mid-Atlantic,2024-09-11,2024,Q3,81,False,False,STR-01
+AUD-10298,#8035,Harbor Restaurants,Mid-Atlantic,2024-12-22,2024,Q4,81,False,False,STR-04
+AUD-10299,#8035,Harbor Restaurants,Mid-Atlantic,2025-03-08,2025,Q1,81,False,False,STR-04
+AUD-10300,#8035,Harbor Restaurants,Mid-Atlantic,2025-06-27,2025,Q2,81,False,False,STR-02
+AUD-10301,#8035,Harbor Restaurants,Mid-Atlantic,2025-09-18,2025,Q3,80,False,False,STR-04
+AUD-10302,#8035,Harbor Restaurants,Mid-Atlantic,2025-12-15,2025,Q4,79,False,False,STR-02
+AUD-10303,#8035,Harbor Restaurants,Mid-Atlantic,2026-03-06,2026,Q1,79,False,False,STR-04
+AUD-10304,#8036,Harbor Restaurants,Mid-Atlantic,2024-03-06,2024,Q1,87,False,False,STR-03
+AUD-10305,#8036,Harbor Restaurants,Mid-Atlantic,2024-06-07,2024,Q2,86,False,False,STR-02
+AUD-10306,#8036,Harbor Restaurants,Mid-Atlantic,2024-09-19,2024,Q3,85,False,False,STR-04
+AUD-10307,#8036,Harbor Restaurants,Mid-Atlantic,2024-11-29,2024,Q4,85,False,True,STR-02
+AUD-10308,#8036,Harbor Restaurants,Mid-Atlantic,2025-02-28,2025,Q1,84,False,False,STR-04
+AUD-10309,#8036,Harbor Restaurants,Mid-Atlantic,2025-05-31,2025,Q2,85,False,False,STR-03
+AUD-10310,#8036,Harbor Restaurants,Mid-Atlantic,2025-09-09,2025,Q3,85,False,False,STR-02
+AUD-10311,#8036,Harbor Restaurants,Mid-Atlantic,2025-12-20,2025,Q4,86,False,True,STR-05
+AUD-10312,#8036,Harbor Restaurants,Mid-Atlantic,2026-02-27,2026,Q1,86,False,True,STR-03
+AUD-10313,#8036,Harbor Restaurants,Mid-Atlantic,2026-05-17,2026,Q2,85,False,True,STR-05
+AUD-10314,#8037,Harbor Restaurants,Mid-Atlantic,2024-03-02,2024,Q1,80,False,False,STR-04
+AUD-10315,#8037,Harbor Restaurants,Mid-Atlantic,2024-06-21,2024,Q2,79,False,True,STR-05
+AUD-10316,#8037,Harbor Restaurants,Mid-Atlantic,2024-09-13,2024,Q3,81,False,False,STR-03
+AUD-10317,#8037,Harbor Restaurants,Mid-Atlantic,2024-12-12,2024,Q4,80,False,True,STR-05
+AUD-10318,#8037,Harbor Restaurants,Mid-Atlantic,2025-06-26,2025,Q2,80,False,True,STR-03
+AUD-10319,#8037,Harbor Restaurants,Mid-Atlantic,2025-09-14,2025,Q3,81,False,False,STR-03
+AUD-10320,#8037,Harbor Restaurants,Mid-Atlantic,2026-02-27,2026,Q1,81,False,False,STR-05
+AUD-10321,#8037,Harbor Restaurants,Mid-Atlantic,2026-05-09,2026,Q2,81,False,False,STR-01
+AUD-10322,#8038,Harbor Restaurants,Mid-Atlantic,2024-06-10,2024,Q2,84,False,False,STR-01
+AUD-10323,#8038,Harbor Restaurants,Mid-Atlantic,2024-09-18,2024,Q3,84,False,False,STR-05
+AUD-10324,#8038,Harbor Restaurants,Mid-Atlantic,2024-12-15,2024,Q4,86,False,False,STR-02
+AUD-10325,#8038,Harbor Restaurants,Mid-Atlantic,2025-03-11,2025,Q1,85,False,False,STR-01
+AUD-10326,#8038,Harbor Restaurants,Mid-Atlantic,2025-06-20,2025,Q2,85,False,False,STR-04
+AUD-10327,#8038,Harbor Restaurants,Mid-Atlantic,2025-09-22,2025,Q3,85,False,False,STR-02
+AUD-10328,#8038,Harbor Restaurants,Mid-Atlantic,2025-12-17,2025,Q4,85,False,True,STR-01
+AUD-10329,#8038,Harbor Restaurants,Mid-Atlantic,2026-03-01,2026,Q1,85,True,False,STR-04
+AUD-10330,#8038,Harbor Restaurants,Mid-Atlantic,2026-05-11,2026,Q2,85,False,False,STR-03
+AUD-10331,#8039,Harbor Restaurants,Mid-Atlantic,2024-03-26,2024,Q1,85,False,False,STR-05
+AUD-10332,#8039,Harbor Restaurants,Mid-Atlantic,2024-06-12,2024,Q2,86,False,False,STR-02
+AUD-10333,#8039,Harbor Restaurants,Mid-Atlantic,2024-09-23,2024,Q3,87,False,True,STR-05
+AUD-10334,#8039,Harbor Restaurants,Mid-Atlantic,2024-12-23,2024,Q4,85,False,False,STR-05
+AUD-10335,#8039,Harbor Restaurants,Mid-Atlantic,2025-06-02,2025,Q2,86,False,True,STR-05
+AUD-10336,#8039,Harbor Restaurants,Mid-Atlantic,2025-09-07,2025,Q3,87,False,True,STR-01
+AUD-10337,#8039,Harbor Restaurants,Mid-Atlantic,2025-12-02,2025,Q4,87,False,True,STR-03
+AUD-10338,#8039,Harbor Restaurants,Mid-Atlantic,2026-03-01,2026,Q1,85,True,True,STR-01
+AUD-10339,#8039,Harbor Restaurants,Mid-Atlantic,2026-05-05,2026,Q2,87,False,False,STR-05
+AUD-10340,#8040,Harbor Restaurants,Mid-Atlantic,2024-03-02,2024,Q1,85,False,True,STR-05
+AUD-10341,#8040,Harbor Restaurants,Mid-Atlantic,2024-06-06,2024,Q2,85,False,False,STR-02
+AUD-10342,#8040,Harbor Restaurants,Mid-Atlantic,2024-09-23,2024,Q3,85,False,False,STR-04
+AUD-10343,#8040,Harbor Restaurants,Mid-Atlantic,2024-12-02,2024,Q4,85,False,False,STR-03
+AUD-10344,#8040,Harbor Restaurants,Mid-Atlantic,2025-03-19,2025,Q1,85,False,True,STR-05
+AUD-10345,#8040,Harbor Restaurants,Mid-Atlantic,2025-06-07,2025,Q2,85,False,True,STR-01
+AUD-10346,#8040,Harbor Restaurants,Mid-Atlantic,2025-12-23,2025,Q4,83,False,False,STR-04
+AUD-10347,#8040,Harbor Restaurants,Mid-Atlantic,2026-03-08,2026,Q1,85,False,False,STR-05
+AUD-10348,#8040,Harbor Restaurants,Mid-Atlantic,2026-05-07,2026,Q2,84,False,False,STR-01
+AUD-10349,#8041,Ironbound Group,Mid-Atlantic,2024-03-04,2024,Q1,82,False,False,STR-02
+AUD-10350,#8041,Ironbound Group,Mid-Atlantic,2024-09-26,2024,Q3,85,False,False,STR-05
+AUD-10351,#8041,Ironbound Group,Mid-Atlantic,2025-03-16,2025,Q1,84,False,False,STR-01
+AUD-10352,#8041,Ironbound Group,Mid-Atlantic,2025-06-16,2025,Q2,83,False,False,STR-05
+AUD-10353,#8041,Ironbound Group,Mid-Atlantic,2025-09-25,2025,Q3,83,False,False,STR-01
+AUD-10354,#8041,Ironbound Group,Mid-Atlantic,2025-12-14,2025,Q4,82,False,False,STR-02
+AUD-10355,#8041,Ironbound Group,Mid-Atlantic,2026-03-26,2026,Q1,83,False,True,STR-04
+AUD-10356,#8041,Ironbound Group,Mid-Atlantic,2026-05-05,2026,Q2,85,True,True,STR-01
+AUD-10357,#8042,Ironbound Group,Mid-Atlantic,2024-06-26,2024,Q2,83,False,True,STR-02
+AUD-10358,#8042,Ironbound Group,Mid-Atlantic,2024-09-18,2024,Q3,83,False,True,STR-01
+AUD-10359,#8042,Ironbound Group,Mid-Atlantic,2024-12-08,2024,Q4,81,False,False,STR-01
+AUD-10360,#8042,Ironbound Group,Mid-Atlantic,2025-03-15,2025,Q1,82,False,False,STR-04
+AUD-10361,#8042,Ironbound Group,Mid-Atlantic,2025-06-06,2025,Q2,81,False,False,STR-02
+AUD-10362,#8042,Ironbound Group,Mid-Atlantic,2025-12-04,2025,Q4,82,False,False,STR-05
+AUD-10363,#8042,Ironbound Group,Mid-Atlantic,2026-03-18,2026,Q1,81,False,False,STR-05
+AUD-10364,#8042,Ironbound Group,Mid-Atlantic,2026-05-26,2026,Q2,82,False,False,STR-02
+AUD-10365,#8043,Ironbound Group,Mid-Atlantic,2024-03-24,2024,Q1,83,False,False,STR-01
+AUD-10366,#8043,Ironbound Group,Mid-Atlantic,2024-06-27,2024,Q2,83,False,False,STR-04
+AUD-10367,#8043,Ironbound Group,Mid-Atlantic,2024-09-04,2024,Q3,82,False,False,STR-03
+AUD-10368,#8043,Ironbound Group,Mid-Atlantic,2024-12-03,2024,Q4,84,False,False,STR-01
+AUD-10369,#8043,Ironbound Group,Mid-Atlantic,2025-03-25,2025,Q1,83,False,False,STR-03
+AUD-10370,#8043,Ironbound Group,Mid-Atlantic,2025-09-21,2025,Q3,83,False,False,STR-05
+AUD-10371,#8043,Ironbound Group,Mid-Atlantic,2025-12-07,2025,Q4,83,False,False,STR-05
+AUD-10372,#8043,Ironbound Group,Mid-Atlantic,2026-05-04,2026,Q2,83,False,True,STR-05
+AUD-10373,#8044,Jasper Quick-Serve,Mid-Atlantic,2024-06-18,2024,Q2,79,True,False,STR-01
+AUD-10374,#8044,Jasper Quick-Serve,Mid-Atlantic,2024-09-26,2024,Q3,77,False,False,STR-05
+AUD-10375,#8044,Jasper Quick-Serve,Mid-Atlantic,2024-12-25,2024,Q4,78,False,False,STR-02
+AUD-10376,#8044,Jasper Quick-Serve,Mid-Atlantic,2025-06-03,2025,Q2,80,True,True,STR-03
+AUD-10377,#8044,Jasper Quick-Serve,Mid-Atlantic,2025-12-22,2025,Q4,79,False,False,STR-02
+AUD-10378,#8044,Jasper Quick-Serve,Mid-Atlantic,2026-03-02,2026,Q1,77,False,False,STR-05
+AUD-10379,#8045,Jasper Quick-Serve,Mid-Atlantic,2024-03-20,2024,Q1,83,False,True,STR-04
+AUD-10380,#8045,Jasper Quick-Serve,Mid-Atlantic,2024-06-19,2024,Q2,81,False,False,STR-03
+AUD-10381,#8045,Jasper Quick-Serve,Mid-Atlantic,2024-09-07,2024,Q3,82,True,False,STR-02
+AUD-10382,#8045,Jasper Quick-Serve,Mid-Atlantic,2024-12-06,2024,Q4,81,False,False,STR-03
+AUD-10383,#8045,Jasper Quick-Serve,Mid-Atlantic,2025-03-10,2025,Q1,83,False,False,STR-01
+AUD-10384,#8045,Jasper Quick-Serve,Mid-Atlantic,2025-06-27,2025,Q2,84,False,False,STR-04
+AUD-10385,#8045,Jasper Quick-Serve,Mid-Atlantic,2025-09-20,2025,Q3,82,False,False,STR-04
+AUD-10386,#8045,Jasper Quick-Serve,Mid-Atlantic,2025-12-09,2025,Q4,83,False,False,STR-01
+AUD-10387,#8045,Jasper Quick-Serve,Mid-Atlantic,2026-03-05,2026,Q1,82,True,False,STR-02
+AUD-10388,#8045,Jasper Quick-Serve,Mid-Atlantic,2026-05-26,2026,Q2,83,False,False,STR-04
+AUD-10389,#8046,Jasper Quick-Serve,Mid-Atlantic,2024-03-03,2024,Q1,79,False,False,STR-03
+AUD-10390,#8046,Jasper Quick-Serve,Mid-Atlantic,2024-09-13,2024,Q3,77,False,False,STR-03
+AUD-10391,#8046,Jasper Quick-Serve,Mid-Atlantic,2024-12-27,2024,Q4,76,False,False,STR-01
+AUD-10392,#8046,Jasper Quick-Serve,Mid-Atlantic,2025-03-28,2025,Q1,79,False,False,STR-05
+AUD-10393,#8046,Jasper Quick-Serve,Mid-Atlantic,2025-09-25,2025,Q3,79,False,True,STR-01
+AUD-10394,#8046,Jasper Quick-Serve,Mid-Atlantic,2025-12-14,2025,Q4,79,False,False,STR-05
+AUD-10395,#8046,Jasper Quick-Serve,Mid-Atlantic,2026-03-12,2026,Q1,78,False,False,STR-05
+AUD-10396,#8047,Jasper Quick-Serve,Mid-Atlantic,2024-06-09,2024,Q2,81,False,False,STR-02
+AUD-10397,#8047,Jasper Quick-Serve,Mid-Atlantic,2024-09-27,2024,Q3,80,False,False,STR-04
+AUD-10398,#8047,Jasper Quick-Serve,Mid-Atlantic,2024-12-08,2024,Q4,79,False,False,STR-05
+AUD-10399,#8047,Jasper Quick-Serve,Mid-Atlantic,2025-03-03,2025,Q1,79,False,True,STR-05
+AUD-10400,#8047,Jasper Quick-Serve,Mid-Atlantic,2025-06-16,2025,Q2,81,False,False,STR-05
+AUD-10401,#8047,Jasper Quick-Serve,Mid-Atlantic,2025-12-04,2025,Q4,79,False,False,STR-03
+AUD-10402,#8047,Jasper Quick-Serve,Mid-Atlantic,2026-03-18,2026,Q1,79,False,False,STR-03
+AUD-10403,#8048,Jasper Quick-Serve,Mid-Atlantic,2024-03-26,2024,Q1,83,False,True,STR-03
+AUD-10404,#8048,Jasper Quick-Serve,Mid-Atlantic,2024-06-16,2024,Q2,83,False,False,STR-05
+AUD-10405,#8048,Jasper Quick-Serve,Mid-Atlantic,2024-09-03,2024,Q3,83,False,False,STR-04
+AUD-10406,#8048,Jasper Quick-Serve,Mid-Atlantic,2024-11-30,2024,Q4,83,False,False,STR-04
+AUD-10407,#8048,Jasper Quick-Serve,Mid-Atlantic,2025-12-16,2025,Q4,84,False,False,STR-01
+AUD-10408,#8049,Keystone Operations,Southeast,2024-06-08,2024,Q2,93,False,False,STR-03
+AUD-10409,#8049,Keystone Operations,Southeast,2024-09-04,2024,Q3,93,False,False,STR-05
+AUD-10410,#8049,Keystone Operations,Southeast,2024-12-04,2024,Q4,92,False,False,STR-04
+AUD-10411,#8049,Keystone Operations,Southeast,2025-03-11,2025,Q1,93,False,False,STR-04
+AUD-10412,#8049,Keystone Operations,Southeast,2025-09-19,2025,Q3,91,False,False,STR-03
+AUD-10413,#8049,Keystone Operations,Southeast,2025-12-09,2025,Q4,93,False,False,STR-01
+AUD-10414,#8049,Keystone Operations,Southeast,2026-03-19,2026,Q1,92,False,True,STR-01
+AUD-10415,#8049,Keystone Operations,Southeast,2026-05-02,2026,Q2,91,False,False,STR-02
+AUD-10416,#8050,Keystone Operations,Southeast,2024-03-08,2024,Q1,93,False,False,STR-04
+AUD-10417,#8050,Keystone Operations,Southeast,2024-06-26,2024,Q2,93,True,False,STR-01
+AUD-10418,#8050,Keystone Operations,Southeast,2024-09-23,2024,Q3,92,False,False,STR-04
+AUD-10419,#8050,Keystone Operations,Southeast,2024-12-21,2024,Q4,91,False,False,STR-02
+AUD-10420,#8050,Keystone Operations,Southeast,2025-03-12,2025,Q1,93,False,False,STR-04
+AUD-10421,#8050,Keystone Operations,Southeast,2025-06-26,2025,Q2,93,False,True,STR-03
+AUD-10422,#8050,Keystone Operations,Southeast,2025-12-26,2025,Q4,94,False,False,STR-04
+AUD-10423,#8050,Keystone Operations,Southeast,2026-03-01,2026,Q1,91,False,False,STR-04
+AUD-10424,#8050,Keystone Operations,Southeast,2026-05-26,2026,Q2,93,False,False,STR-01
+AUD-10425,#8051,Keystone Operations,Southeast,2024-03-18,2024,Q1,90,False,False,STR-05
+AUD-10426,#8051,Keystone Operations,Southeast,2024-06-10,2024,Q2,87,False,False,STR-04
+AUD-10427,#8051,Keystone Operations,Southeast,2024-09-14,2024,Q3,88,False,False,STR-03
+AUD-10428,#8051,Keystone Operations,Southeast,2025-03-06,2025,Q1,88,False,False,STR-05
+AUD-10429,#8051,Keystone Operations,Southeast,2025-09-16,2025,Q3,88,False,False,STR-03
+AUD-10430,#8051,Keystone Operations,Southeast,2025-12-07,2025,Q4,90,False,False,STR-01
+AUD-10431,#8051,Keystone Operations,Southeast,2026-03-10,2026,Q1,88,False,True,STR-03
+AUD-10432,#8052,Keystone Operations,Southeast,2024-03-22,2024,Q1,92,False,True,STR-02
+AUD-10433,#8052,Keystone Operations,Southeast,2024-06-08,2024,Q2,90,False,False,STR-01
+AUD-10434,#8052,Keystone Operations,Southeast,2024-09-17,2024,Q3,90,False,True,STR-04
+AUD-10435,#8052,Keystone Operations,Southeast,2024-12-06,2024,Q4,91,False,False,STR-01
+AUD-10436,#8052,Keystone Operations,Southeast,2025-06-26,2025,Q2,91,True,False,STR-05
+AUD-10437,#8052,Keystone Operations,Southeast,2026-03-09,2026,Q1,90,False,False,STR-02
+AUD-10438,#8052,Keystone Operations,Southeast,2026-05-12,2026,Q2,91,False,True,STR-03
+AUD-10439,#8053,Keystone Operations,Southeast,2024-03-03,2024,Q1,87,False,False,STR-01
+AUD-10440,#8053,Keystone Operations,Southeast,2024-06-17,2024,Q2,86,False,False,STR-03
+AUD-10441,#8053,Keystone Operations,Southeast,2024-08-31,2024,Q3,86,False,False,STR-04
+AUD-10442,#8053,Keystone Operations,Southeast,2024-11-30,2024,Q4,86,False,False,STR-02
+AUD-10443,#8053,Keystone Operations,Southeast,2025-06-08,2025,Q2,86,False,False,STR-02
+AUD-10444,#8053,Keystone Operations,Southeast,2025-09-18,2025,Q3,85,False,False,STR-05
+AUD-10445,#8053,Keystone Operations,Southeast,2025-12-17,2025,Q4,85,False,False,STR-04
+AUD-10446,#8054,Keystone Operations,Southeast,2024-03-11,2024,Q1,87,False,False,STR-01
+AUD-10447,#8054,Keystone Operations,Southeast,2024-06-03,2024,Q2,88,False,False,STR-04
+AUD-10448,#8054,Keystone Operations,Southeast,2024-09-26,2024,Q3,89,False,False,STR-01
+AUD-10449,#8054,Keystone Operations,Southeast,2024-12-12,2024,Q4,88,False,False,STR-03
+AUD-10450,#8054,Keystone Operations,Southeast,2025-06-13,2025,Q2,88,False,False,STR-03
+AUD-10451,#8054,Keystone Operations,Southeast,2025-08-31,2025,Q3,87,False,False,STR-05
+AUD-10452,#8054,Keystone Operations,Southeast,2025-11-28,2025,Q4,90,False,True,STR-03
+AUD-10453,#8054,Keystone Operations,Southeast,2026-03-11,2026,Q1,89,False,False,STR-03
+AUD-10454,#8054,Keystone Operations,Southeast,2026-05-03,2026,Q2,88,False,True,STR-04
+AUD-10455,#8055,Lakeside Foods,Southeast,2024-06-17,2024,Q2,92,False,False,STR-05
+AUD-10456,#8055,Lakeside Foods,Southeast,2024-12-25,2024,Q4,91,False,True,STR-04
+AUD-10457,#8055,Lakeside Foods,Southeast,2025-03-05,2025,Q1,91,False,False,STR-03
+AUD-10458,#8055,Lakeside Foods,Southeast,2025-06-19,2025,Q2,93,False,False,STR-02
+AUD-10459,#8055,Lakeside Foods,Southeast,2026-03-24,2026,Q1,92,False,False,STR-05
+AUD-10460,#8055,Lakeside Foods,Southeast,2026-05-07,2026,Q2,91,False,True,STR-01
+AUD-10461,#8056,Lakeside Foods,Southeast,2024-03-28,2024,Q1,87,False,True,STR-02
+AUD-10462,#8056,Lakeside Foods,Southeast,2024-09-21,2024,Q3,86,False,False,STR-02
+AUD-10463,#8056,Lakeside Foods,Southeast,2024-12-13,2024,Q4,84,False,False,STR-02
+AUD-10464,#8056,Lakeside Foods,Southeast,2025-03-11,2025,Q1,86,False,False,STR-01
+AUD-10465,#8056,Lakeside Foods,Southeast,2025-06-14,2025,Q2,84,False,False,STR-04
+AUD-10466,#8056,Lakeside Foods,Southeast,2025-09-17,2025,Q3,84,False,False,STR-04
+AUD-10467,#8056,Lakeside Foods,Southeast,2025-12-16,2025,Q4,85,False,False,STR-02
+AUD-10468,#8056,Lakeside Foods,Southeast,2026-03-25,2026,Q1,84,False,False,STR-01
+AUD-10469,#8056,Lakeside Foods,Southeast,2026-05-09,2026,Q2,86,False,False,STR-05
+AUD-10470,#8057,Lakeside Foods,Southeast,2024-03-14,2024,Q1,95,True,False,STR-05
+AUD-10471,#8057,Lakeside Foods,Southeast,2024-06-07,2024,Q2,95,True,True,STR-03
+AUD-10472,#8057,Lakeside Foods,Southeast,2024-09-09,2024,Q3,96,False,False,STR-04
+AUD-10473,#8057,Lakeside Foods,Southeast,2024-12-25,2024,Q4,96,False,True,STR-05
+AUD-10474,#8057,Lakeside Foods,Southeast,2025-03-16,2025,Q1,95,False,True,STR-03
+AUD-10475,#8057,Lakeside Foods,Southeast,2025-05-31,2025,Q2,95,False,False,STR-05
+AUD-10476,#8057,Lakeside Foods,Southeast,2025-09-08,2025,Q3,96,False,True,STR-01
+AUD-10477,#8057,Lakeside Foods,Southeast,2025-12-19,2025,Q4,96,False,False,STR-03
+AUD-10478,#8057,Lakeside Foods,Southeast,2026-03-11,2026,Q1,94,False,True,STR-04
+AUD-10479,#8057,Lakeside Foods,Southeast,2026-05-06,2026,Q2,94,False,False,STR-05
+AUD-10480,#8058,Lakeside Foods,Southeast,2024-06-03,2024,Q2,89,False,False,STR-04
+AUD-10481,#8058,Lakeside Foods,Southeast,2024-09-21,2024,Q3,90,False,False,STR-05
+AUD-10482,#8058,Lakeside Foods,Southeast,2024-12-25,2024,Q4,88,False,True,STR-02
+AUD-10483,#8058,Lakeside Foods,Southeast,2025-03-12,2025,Q1,89,False,False,STR-05
+AUD-10484,#8058,Lakeside Foods,Southeast,2025-06-24,2025,Q2,90,False,False,STR-03
+AUD-10485,#8058,Lakeside Foods,Southeast,2025-09-22,2025,Q3,89,False,False,STR-04
+AUD-10486,#8058,Lakeside Foods,Southeast,2025-12-18,2025,Q4,88,False,False,STR-04
+AUD-10487,#8058,Lakeside Foods,Southeast,2026-03-23,2026,Q1,89,False,False,STR-01
+AUD-10488,#8058,Lakeside Foods,Southeast,2026-05-13,2026,Q2,88,False,True,STR-05
+AUD-10489,#8059,Meridian Restaurants,Southeast,2024-03-29,2024,Q1,89,False,False,STR-01
+AUD-10490,#8059,Meridian Restaurants,Southeast,2024-06-27,2024,Q2,89,False,True,STR-05
+AUD-10491,#8059,Meridian Restaurants,Southeast,2024-09-20,2024,Q3,87,False,True,STR-01
+AUD-10492,#8059,Meridian Restaurants,Southeast,2025-03-01,2025,Q1,88,False,True,STR-05
+AUD-10493,#8059,Meridian Restaurants,Southeast,2025-06-04,2025,Q2,89,False,True,STR-03
+AUD-10494,#8059,Meridian Restaurants,Southeast,2025-09-14,2025,Q3,89,True,False,STR-05
+AUD-10495,#8059,Meridian Restaurants,Southeast,2025-11-30,2025,Q4,88,False,True,STR-01
+AUD-10496,#8059,Meridian Restaurants,Southeast,2026-03-03,2026,Q1,88,False,False,STR-01
+AUD-10497,#8059,Meridian Restaurants,Southeast,2026-05-07,2026,Q2,87,False,True,STR-05
+AUD-10498,#8060,Meridian Restaurants,Southeast,2024-06-05,2024,Q2,92,True,False,STR-03
+AUD-10499,#8060,Meridian Restaurants,Southeast,2024-12-13,2024,Q4,91,False,False,STR-03
+AUD-10500,#8060,Meridian Restaurants,Southeast,2025-03-15,2025,Q1,91,False,False,STR-05
+AUD-10501,#8060,Meridian Restaurants,Southeast,2025-06-26,2025,Q2,90,False,False,STR-02
+AUD-10502,#8060,Meridian Restaurants,Southeast,2025-09-11,2025,Q3,93,False,False,STR-02
+AUD-10503,#8060,Meridian Restaurants,Southeast,2025-12-13,2025,Q4,91,False,True,STR-01
+AUD-10504,#8060,Meridian Restaurants,Southeast,2026-03-08,2026,Q1,92,False,False,STR-04
+AUD-10505,#8061,Meridian Restaurants,Southeast,2024-03-05,2024,Q1,92,False,False,STR-01
+AUD-10506,#8061,Meridian Restaurants,Southeast,2024-06-18,2024,Q2,93,False,False,STR-02
+AUD-10507,#8061,Meridian Restaurants,Southeast,2024-09-15,2024,Q3,94,False,False,STR-02
+AUD-10508,#8061,Meridian Restaurants,Southeast,2024-12-19,2024,Q4,92,False,False,STR-03
+AUD-10509,#8061,Meridian Restaurants,Southeast,2025-03-14,2025,Q1,93,False,True,STR-02
+AUD-10510,#8061,Meridian Restaurants,Southeast,2025-06-23,2025,Q2,93,False,False,STR-02
+AUD-10511,#8061,Meridian Restaurants,Southeast,2025-08-31,2025,Q3,92,False,False,STR-05
+AUD-10512,#8061,Meridian Restaurants,Southeast,2025-12-18,2025,Q4,93,False,False,STR-04
+AUD-10513,#8061,Meridian Restaurants,Southeast,2026-03-12,2026,Q1,93,False,False,STR-02
+AUD-10514,#8061,Meridian Restaurants,Southeast,2026-05-22,2026,Q2,92,False,False,STR-03
+AUD-10515,#8062,Meridian Restaurants,Southeast,2024-03-25,2024,Q1,92,False,True,STR-03
+AUD-10516,#8062,Meridian Restaurants,Southeast,2024-06-11,2024,Q2,92,False,True,STR-01
+AUD-10517,#8062,Meridian Restaurants,Southeast,2024-09-23,2024,Q3,91,False,False,STR-04
+AUD-10518,#8062,Meridian Restaurants,Southeast,2025-03-02,2025,Q1,90,False,False,STR-04
+AUD-10519,#8062,Meridian Restaurants,Southeast,2025-06-26,2025,Q2,91,False,True,STR-03
+AUD-10520,#8062,Meridian Restaurants,Southeast,2025-09-20,2025,Q3,90,False,False,STR-01
+AUD-10521,#8062,Meridian Restaurants,Southeast,2025-12-02,2025,Q4,92,False,False,STR-04
+AUD-10522,#8062,Meridian Restaurants,Southeast,2026-03-23,2026,Q1,91,False,False,STR-04
+AUD-10523,#8062,Meridian Restaurants,Southeast,2026-05-10,2026,Q2,92,False,True,STR-05
+AUD-10524,#8063,Meridian Restaurants,Southeast,2024-03-23,2024,Q1,89,False,False,STR-05
+AUD-10525,#8063,Meridian Restaurants,Southeast,2024-09-27,2024,Q3,89,False,False,STR-02
+AUD-10526,#8063,Meridian Restaurants,Southeast,2024-12-02,2024,Q4,92,False,False,STR-02
+AUD-10527,#8063,Meridian Restaurants,Southeast,2025-03-20,2025,Q1,91,False,False,STR-05
+AUD-10528,#8063,Meridian Restaurants,Southeast,2025-09-01,2025,Q3,89,True,False,STR-04
+AUD-10529,#8063,Meridian Restaurants,Southeast,2026-03-13,2026,Q1,92,False,False,STR-02
+AUD-10530,#8063,Meridian Restaurants,Southeast,2026-05-04,2026,Q2,90,False,False,STR-01
+AUD-10531,#8064,Meridian Restaurants,Southeast,2024-03-10,2024,Q1,88,False,False,STR-01
+AUD-10532,#8064,Meridian Restaurants,Southeast,2024-06-01,2024,Q2,88,False,False,STR-01
+AUD-10533,#8064,Meridian Restaurants,Southeast,2024-12-18,2024,Q4,88,False,False,STR-04
+AUD-10534,#8064,Meridian Restaurants,Southeast,2025-03-25,2025,Q1,89,False,True,STR-02
+AUD-10535,#8064,Meridian Restaurants,Southeast,2025-06-22,2025,Q2,90,False,False,STR-02
+AUD-10536,#8064,Meridian Restaurants,Southeast,2025-09-14,2025,Q3,90,False,True,STR-03
+AUD-10537,#8064,Meridian Restaurants,Southeast,2026-05-12,2026,Q2,90,False,False,STR-03
+AUD-10538,#8065,Meridian Restaurants,Southeast,2024-03-17,2024,Q1,87,False,True,STR-02
+AUD-10539,#8065,Meridian Restaurants,Southeast,2024-09-26,2024,Q3,88,False,False,STR-03
+AUD-10540,#8065,Meridian Restaurants,Southeast,2024-12-13,2024,Q4,86,False,False,STR-05
+AUD-10541,#8065,Meridian Restaurants,Southeast,2025-03-25,2025,Q1,88,False,True,STR-04
+AUD-10542,#8065,Meridian Restaurants,Southeast,2025-12-26,2025,Q4,88,False,False,STR-04
+AUD-10543,#8065,Meridian Restaurants,Southeast,2026-03-18,2026,Q1,88,False,False,STR-04
+AUD-10544,#8065,Meridian Restaurants,Southeast,2026-05-05,2026,Q2,88,False,False,STR-03
+AUD-10545,#8066,Northstar Brands,Southeast,2024-03-01,2024,Q1,96,True,True,STR-05
+AUD-10546,#8066,Northstar Brands,Southeast,2024-06-21,2024,Q2,97,False,False,STR-02
+AUD-10547,#8066,Northstar Brands,Southeast,2024-08-30,2024,Q3,96,False,True,STR-02
+AUD-10548,#8066,Northstar Brands,Southeast,2025-03-23,2025,Q1,97,False,False,STR-05
+AUD-10549,#8066,Northstar Brands,Southeast,2025-06-27,2025,Q2,97,False,False,STR-04
+AUD-10550,#8066,Northstar Brands,Southeast,2025-09-26,2025,Q3,96,False,False,STR-01
+AUD-10551,#8066,Northstar Brands,Southeast,2025-11-28,2025,Q4,96,False,True,STR-01
+AUD-10552,#8066,Northstar Brands,Southeast,2026-03-27,2026,Q1,95,False,False,STR-03
+AUD-10553,#8066,Northstar Brands,Southeast,2026-05-08,2026,Q2,98,False,True,STR-01
+AUD-10554,#8067,Northstar Brands,Southeast,2024-06-22,2024,Q2,92,False,False,STR-02
+AUD-10555,#8067,Northstar Brands,Southeast,2024-09-23,2024,Q3,93,False,True,STR-03
+AUD-10556,#8067,Northstar Brands,Southeast,2024-12-26,2024,Q4,93,False,True,STR-03
+AUD-10557,#8067,Northstar Brands,Southeast,2025-06-13,2025,Q2,93,False,True,STR-01
+AUD-10558,#8067,Northstar Brands,Southeast,2025-09-26,2025,Q3,93,False,False,STR-02
+AUD-10559,#8067,Northstar Brands,Southeast,2025-12-23,2025,Q4,91,False,False,STR-03
+AUD-10560,#8067,Northstar Brands,Southeast,2026-03-09,2026,Q1,92,False,False,STR-02
+AUD-10561,#8067,Northstar Brands,Southeast,2026-05-29,2026,Q2,92,False,False,STR-05
+AUD-10562,#8068,Northstar Brands,Southeast,2024-03-29,2024,Q1,90,False,False,STR-05
+AUD-10563,#8068,Northstar Brands,Southeast,2024-06-15,2024,Q2,90,False,False,STR-04
+AUD-10564,#8068,Northstar Brands,Southeast,2024-09-01,2024,Q3,90,False,False,STR-01
+AUD-10565,#8068,Northstar Brands,Southeast,2024-12-03,2024,Q4,89,False,False,STR-02
+AUD-10566,#8068,Northstar Brands,Southeast,2025-06-04,2025,Q2,89,False,False,STR-01
+AUD-10567,#8068,Northstar Brands,Southeast,2025-09-09,2025,Q3,88,False,False,STR-05
+AUD-10568,#8068,Northstar Brands,Southeast,2025-12-21,2025,Q4,88,False,False,STR-01
+AUD-10569,#8068,Northstar Brands,Southeast,2026-03-05,2026,Q1,89,True,True,STR-04
+AUD-10570,#8068,Northstar Brands,Southeast,2026-05-21,2026,Q2,90,False,True,STR-03
+AUD-10571,#8069,Northstar Brands,Southeast,2024-03-06,2024,Q1,93,False,False,STR-02
+AUD-10572,#8069,Northstar Brands,Southeast,2024-06-14,2024,Q2,94,False,True,STR-04
+AUD-10573,#8069,Northstar Brands,Southeast,2024-09-04,2024,Q3,91,False,True,STR-03
+AUD-10574,#8069,Northstar Brands,Southeast,2024-12-10,2024,Q4,93,False,False,STR-01
+AUD-10575,#8069,Northstar Brands,Southeast,2025-03-19,2025,Q1,94,False,False,STR-04
+AUD-10576,#8069,Northstar Brands,Southeast,2025-06-22,2025,Q2,91,False,False,STR-05
+AUD-10577,#8069,Northstar Brands,Southeast,2025-09-13,2025,Q3,92,False,False,STR-05
+AUD-10578,#8069,Northstar Brands,Southeast,2025-11-29,2025,Q4,94,False,True,STR-02
+AUD-10579,#8069,Northstar Brands,Southeast,2026-02-28,2026,Q1,94,False,False,STR-02
+AUD-10580,#8069,Northstar Brands,Southeast,2026-05-10,2026,Q2,94,False,False,STR-04
+AUD-10581,#8070,Northstar Brands,Southeast,2024-06-28,2024,Q2,93,True,False,STR-05
+AUD-10582,#8070,Northstar Brands,Southeast,2024-09-09,2024,Q3,92,False,False,STR-04
+AUD-10583,#8070,Northstar Brands,Southeast,2024-11-29,2024,Q4,93,True,False,STR-02
+AUD-10584,#8070,Northstar Brands,Southeast,2025-03-08,2025,Q1,93,False,False,STR-03
+AUD-10585,#8070,Northstar Brands,Southeast,2025-06-22,2025,Q2,92,False,False,STR-02
+AUD-10586,#8070,Northstar Brands,Southeast,2025-09-20,2025,Q3,92,False,False,STR-04
+AUD-10587,#8070,Northstar Brands,Southeast,2025-12-23,2025,Q4,92,False,False,STR-03
+AUD-10588,#8070,Northstar Brands,Southeast,2026-03-19,2026,Q1,91,False,False,STR-01
+AUD-10589,#8070,Northstar Brands,Southeast,2026-05-17,2026,Q2,91,False,True,STR-03
+AUD-10590,#8071,Oakridge Holdings,Southeast,2024-03-11,2024,Q1,97,False,True,STR-04
+AUD-10591,#8071,Oakridge Holdings,Southeast,2024-06-25,2024,Q2,95,False,False,STR-04
+AUD-10592,#8071,Oakridge Holdings,Southeast,2024-09-18,2024,Q3,95,False,True,STR-02
+AUD-10593,#8071,Oakridge Holdings,Southeast,2024-12-13,2024,Q4,96,False,False,STR-02
+AUD-10594,#8071,Oakridge Holdings,Southeast,2025-03-26,2025,Q1,96,False,False,STR-04
+AUD-10595,#8071,Oakridge Holdings,Southeast,2025-06-04,2025,Q2,95,False,False,STR-03
+AUD-10596,#8071,Oakridge Holdings,Southeast,2025-09-18,2025,Q3,95,False,True,STR-02
+AUD-10597,#8071,Oakridge Holdings,Southeast,2025-12-10,2025,Q4,97,False,False,STR-02
+AUD-10598,#8071,Oakridge Holdings,Southeast,2026-03-17,2026,Q1,97,False,False,STR-05
+AUD-10599,#8071,Oakridge Holdings,Southeast,2026-05-07,2026,Q2,95,False,False,STR-04
+AUD-10600,#8072,Oakridge Holdings,Southeast,2024-03-01,2024,Q1,90,True,False,STR-01
+AUD-10601,#8072,Oakridge Holdings,Southeast,2024-06-10,2024,Q2,90,False,False,STR-01
+AUD-10602,#8072,Oakridge Holdings,Southeast,2024-09-06,2024,Q3,90,False,True,STR-05
+AUD-10603,#8072,Oakridge Holdings,Southeast,2024-12-05,2024,Q4,90,False,True,STR-01
+AUD-10604,#8072,Oakridge Holdings,Southeast,2025-03-16,2025,Q1,89,False,False,STR-05
+AUD-10605,#8072,Oakridge Holdings,Southeast,2025-06-01,2025,Q2,90,False,False,STR-01
+AUD-10606,#8072,Oakridge Holdings,Southeast,2026-03-11,2026,Q1,90,False,True,STR-03
+AUD-10607,#8072,Oakridge Holdings,Southeast,2026-05-22,2026,Q2,90,False,True,STR-04
+AUD-10608,#8073,Oakridge Holdings,Southeast,2024-03-06,2024,Q1,96,False,False,STR-03
+AUD-10609,#8073,Oakridge Holdings,Southeast,2024-06-05,2024,Q2,96,False,True,STR-05
+AUD-10610,#8073,Oakridge Holdings,Southeast,2024-09-22,2024,Q3,98,False,False,STR-01
+AUD-10611,#8073,Oakridge Holdings,Southeast,2025-03-13,2025,Q1,97,False,False,STR-03
+AUD-10612,#8073,Oakridge Holdings,Southeast,2025-06-02,2025,Q2,98,True,True,STR-04
+AUD-10613,#8073,Oakridge Holdings,Southeast,2025-09-17,2025,Q3,96,False,True,STR-02
+AUD-10614,#8073,Oakridge Holdings,Southeast,2025-12-12,2025,Q4,98,False,False,STR-02
+AUD-10615,#8073,Oakridge Holdings,Southeast,2026-03-15,2026,Q1,97,False,False,STR-05
+AUD-10616,#8073,Oakridge Holdings,Southeast,2026-05-09,2026,Q2,97,False,False,STR-04
+AUD-10617,#8074,Pinewood Capital,Midwest,2024-03-26,2024,Q1,86,False,True,STR-01
+AUD-10618,#8074,Pinewood Capital,Midwest,2024-06-13,2024,Q2,84,False,False,STR-03
+AUD-10619,#8074,Pinewood Capital,Midwest,2024-09-12,2024,Q3,84,True,False,STR-01
+AUD-10620,#8074,Pinewood Capital,Midwest,2024-12-11,2024,Q4,86,False,False,STR-03
+AUD-10621,#8074,Pinewood Capital,Midwest,2025-03-15,2025,Q1,84,False,False,STR-01
+AUD-10622,#8074,Pinewood Capital,Midwest,2025-06-11,2025,Q2,83,False,False,STR-04
+AUD-10623,#8074,Pinewood Capital,Midwest,2025-09-08,2025,Q3,84,False,False,STR-03
+AUD-10624,#8074,Pinewood Capital,Midwest,2025-12-11,2025,Q4,86,False,False,STR-02
+AUD-10625,#8074,Pinewood Capital,Midwest,2026-03-25,2026,Q1,86,False,False,STR-01
+AUD-10626,#8074,Pinewood Capital,Midwest,2026-05-11,2026,Q2,85,False,True,STR-02
+AUD-10627,#8075,Pinewood Capital,Midwest,2024-03-29,2024,Q1,81,False,False,STR-05
+AUD-10628,#8075,Pinewood Capital,Midwest,2024-06-27,2024,Q2,81,False,False,STR-03
+AUD-10629,#8075,Pinewood Capital,Midwest,2025-03-09,2025,Q1,79,False,False,STR-03
+AUD-10630,#8075,Pinewood Capital,Midwest,2025-06-19,2025,Q2,80,False,True,STR-03
+AUD-10631,#8075,Pinewood Capital,Midwest,2025-08-30,2025,Q3,79,False,False,STR-05
+AUD-10632,#8075,Pinewood Capital,Midwest,2025-12-05,2025,Q4,80,False,False,STR-04
+AUD-10633,#8075,Pinewood Capital,Midwest,2026-03-17,2026,Q1,79,False,False,STR-04
+AUD-10634,#8075,Pinewood Capital,Midwest,2026-05-09,2026,Q2,79,False,False,STR-02
+AUD-10635,#8076,Pinewood Capital,Midwest,2024-03-22,2024,Q1,84,False,False,STR-04
+AUD-10636,#8076,Pinewood Capital,Midwest,2024-06-02,2024,Q2,83,False,False,STR-02
+AUD-10637,#8076,Pinewood Capital,Midwest,2024-09-26,2024,Q3,82,False,False,STR-03
+AUD-10638,#8076,Pinewood Capital,Midwest,2024-12-02,2024,Q4,84,False,False,STR-03
+AUD-10639,#8076,Pinewood Capital,Midwest,2025-03-09,2025,Q1,82,False,False,STR-01
+AUD-10640,#8076,Pinewood Capital,Midwest,2025-06-19,2025,Q2,82,False,False,STR-05
+AUD-10641,#8076,Pinewood Capital,Midwest,2025-09-19,2025,Q3,81,False,False,STR-01
+AUD-10642,#8076,Pinewood Capital,Midwest,2025-12-13,2025,Q4,82,False,False,STR-02
+AUD-10643,#8076,Pinewood Capital,Midwest,2026-03-05,2026,Q1,81,False,False,STR-03
+AUD-10644,#8076,Pinewood Capital,Midwest,2026-05-07,2026,Q2,82,False,False,STR-05
+AUD-10645,#8077,Pinewood Capital,Midwest,2024-03-26,2024,Q1,84,False,True,STR-02
+AUD-10646,#8077,Pinewood Capital,Midwest,2024-06-16,2024,Q2,83,False,False,STR-02
+AUD-10647,#8077,Pinewood Capital,Midwest,2024-09-10,2024,Q3,82,False,False,STR-01
+AUD-10648,#8077,Pinewood Capital,Midwest,2024-12-24,2024,Q4,83,False,True,STR-03
+AUD-10649,#8077,Pinewood Capital,Midwest,2025-03-10,2025,Q1,84,False,False,STR-05
+AUD-10650,#8077,Pinewood Capital,Midwest,2025-06-04,2025,Q2,82,False,True,STR-01
+AUD-10651,#8077,Pinewood Capital,Midwest,2025-09-07,2025,Q3,83,False,False,STR-03
+AUD-10652,#8077,Pinewood Capital,Midwest,2025-12-06,2025,Q4,82,False,False,STR-01
+AUD-10653,#8077,Pinewood Capital,Midwest,2026-03-16,2026,Q1,83,False,True,STR-02
+AUD-10654,#8078,Pinewood Capital,Midwest,2024-03-21,2024,Q1,87,False,False,STR-01
+AUD-10655,#8078,Pinewood Capital,Midwest,2024-06-05,2024,Q2,88,False,True,STR-04
+AUD-10656,#8078,Pinewood Capital,Midwest,2024-09-16,2024,Q3,87,False,False,STR-05
+AUD-10657,#8078,Pinewood Capital,Midwest,2024-12-23,2024,Q4,88,False,False,STR-05
+AUD-10658,#8078,Pinewood Capital,Midwest,2025-03-02,2025,Q1,88,False,False,STR-01
+AUD-10659,#8078,Pinewood Capital,Midwest,2025-06-09,2025,Q2,87,False,False,STR-01
+AUD-10660,#8078,Pinewood Capital,Midwest,2025-09-22,2025,Q3,88,False,False,STR-02
+AUD-10661,#8078,Pinewood Capital,Midwest,2025-12-07,2025,Q4,89,True,True,STR-05
+AUD-10662,#8078,Pinewood Capital,Midwest,2026-03-26,2026,Q1,88,False,False,STR-02
+AUD-10663,#8078,Pinewood Capital,Midwest,2026-05-06,2026,Q2,88,False,False,STR-04
+AUD-10664,#8079,Quail Run Foods,Midwest,2024-03-22,2024,Q1,88,False,True,STR-03
+AUD-10665,#8079,Quail Run Foods,Midwest,2024-06-02,2024,Q2,87,False,False,STR-02
+AUD-10666,#8079,Quail Run Foods,Midwest,2024-08-30,2024,Q3,86,False,True,STR-02
+AUD-10667,#8079,Quail Run Foods,Midwest,2024-12-03,2024,Q4,87,False,True,STR-04
+AUD-10668,#8079,Quail Run Foods,Midwest,2025-06-04,2025,Q2,87,True,False,STR-03
+AUD-10669,#8079,Quail Run Foods,Midwest,2025-09-26,2025,Q3,88,False,True,STR-01
+AUD-10670,#8079,Quail Run Foods,Midwest,2025-12-09,2025,Q4,87,False,False,STR-02
+AUD-10671,#8079,Quail Run Foods,Midwest,2026-03-09,2026,Q1,87,False,False,STR-02
+AUD-10672,#8079,Quail Run Foods,Midwest,2026-05-22,2026,Q2,87,False,False,STR-02
+AUD-10673,#8080,Quail Run Foods,Midwest,2024-03-01,2024,Q1,82,False,False,STR-05
+AUD-10674,#8080,Quail Run Foods,Midwest,2024-06-07,2024,Q2,82,False,False,STR-01
+AUD-10675,#8080,Quail Run Foods,Midwest,2024-09-20,2024,Q3,83,False,False,STR-03
+AUD-10676,#8080,Quail Run Foods,Midwest,2025-03-17,2025,Q1,83,False,False,STR-02
+AUD-10677,#8080,Quail Run Foods,Midwest,2025-06-04,2025,Q2,81,False,True,STR-01
+AUD-10678,#8080,Quail Run Foods,Midwest,2025-09-04,2025,Q3,83,False,False,STR-05
+AUD-10679,#8080,Quail Run Foods,Midwest,2025-12-13,2025,Q4,82,False,False,STR-02
+AUD-10680,#8080,Quail Run Foods,Midwest,2026-03-17,2026,Q1,83,False,True,STR-02
+AUD-10681,#8081,Quail Run Foods,Midwest,2024-03-04,2024,Q1,87,False,False,STR-03
+AUD-10682,#8081,Quail Run Foods,Midwest,2024-06-01,2024,Q2,86,True,False,STR-05
+AUD-10683,#8081,Quail Run Foods,Midwest,2024-12-12,2024,Q4,87,False,True,STR-02
+AUD-10684,#8081,Quail Run Foods,Midwest,2025-03-22,2025,Q1,87,False,False,STR-02
+AUD-10685,#8081,Quail Run Foods,Midwest,2025-09-04,2025,Q3,87,False,False,STR-05
+AUD-10686,#8081,Quail Run Foods,Midwest,2025-11-28,2025,Q4,87,True,False,STR-04
+AUD-10687,#8081,Quail Run Foods,Midwest,2026-03-19,2026,Q1,87,False,True,STR-01
+AUD-10688,#8081,Quail Run Foods,Midwest,2026-05-08,2026,Q2,85,False,False,STR-03
+AUD-10689,#8082,Quail Run Foods,Midwest,2024-03-08,2024,Q1,85,False,False,STR-03
+AUD-10690,#8082,Quail Run Foods,Midwest,2024-06-28,2024,Q2,85,False,False,STR-03
+AUD-10691,#8082,Quail Run Foods,Midwest,2024-09-12,2024,Q3,87,False,False,STR-01
+AUD-10692,#8082,Quail Run Foods,Midwest,2024-12-09,2024,Q4,87,True,False,STR-03
+AUD-10693,#8082,Quail Run Foods,Midwest,2025-03-19,2025,Q1,84,False,False,STR-04
+AUD-10694,#8082,Quail Run Foods,Midwest,2025-06-10,2025,Q2,86,False,False,STR-02
+AUD-10695,#8082,Quail Run Foods,Midwest,2025-09-20,2025,Q3,87,False,False,STR-03
+AUD-10696,#8082,Quail Run Foods,Midwest,2025-12-10,2025,Q4,86,False,False,STR-04
+AUD-10697,#8082,Quail Run Foods,Midwest,2026-03-16,2026,Q1,86,False,False,STR-01
+AUD-10698,#8082,Quail Run Foods,Midwest,2026-05-14,2026,Q2,87,False,True,STR-04
+AUD-10699,#8083,Ridgefield Restaurants,Midwest,2024-03-02,2024,Q1,86,False,False,STR-05
+AUD-10700,#8083,Ridgefield Restaurants,Midwest,2024-06-28,2024,Q2,85,False,True,STR-03
+AUD-10701,#8083,Ridgefield Restaurants,Midwest,2024-09-14,2024,Q3,85,False,False,STR-02
+AUD-10702,#8083,Ridgefield Restaurants,Midwest,2025-03-14,2025,Q1,84,False,False,STR-01
+AUD-10703,#8083,Ridgefield Restaurants,Midwest,2025-06-09,2025,Q2,85,False,True,STR-04
+AUD-10704,#8083,Ridgefield Restaurants,Midwest,2025-09-21,2025,Q3,84,False,False,STR-04
+AUD-10705,#8083,Ridgefield Restaurants,Midwest,2025-11-29,2025,Q4,86,False,True,STR-03
+AUD-10706,#8083,Ridgefield Restaurants,Midwest,2026-03-20,2026,Q1,84,False,False,STR-03
+AUD-10707,#8083,Ridgefield Restaurants,Midwest,2026-05-08,2026,Q2,85,False,True,STR-01
+AUD-10708,#8084,Ridgefield Restaurants,Midwest,2024-03-26,2024,Q1,92,False,False,STR-02
+AUD-10709,#8084,Ridgefield Restaurants,Midwest,2024-12-07,2024,Q4,92,False,False,STR-01
+AUD-10710,#8084,Ridgefield Restaurants,Midwest,2025-05-30,2025,Q2,94,False,False,STR-01
+AUD-10711,#8084,Ridgefield Restaurants,Midwest,2025-12-01,2025,Q4,91,False,False,STR-05
+AUD-10712,#8084,Ridgefield Restaurants,Midwest,2026-03-10,2026,Q1,93,False,False,STR-03
+AUD-10713,#8084,Ridgefield Restaurants,Midwest,2026-05-02,2026,Q2,91,False,False,STR-01
+AUD-10714,#8085,Ridgefield Restaurants,Midwest,2024-03-21,2024,Q1,91,False,False,STR-02
+AUD-10715,#8085,Ridgefield Restaurants,Midwest,2024-06-09,2024,Q2,90,False,True,STR-02
+AUD-10716,#8085,Ridgefield Restaurants,Midwest,2024-09-22,2024,Q3,91,False,False,STR-03
+AUD-10717,#8085,Ridgefield Restaurants,Midwest,2024-12-22,2024,Q4,89,False,False,STR-03
+AUD-10718,#8085,Ridgefield Restaurants,Midwest,2025-03-17,2025,Q1,90,False,False,STR-02
+AUD-10719,#8085,Ridgefield Restaurants,Midwest,2025-06-10,2025,Q2,89,False,False,STR-03
+AUD-10720,#8085,Ridgefield Restaurants,Midwest,2025-08-29,2025,Q3,88,False,False,STR-05
+AUD-10721,#8085,Ridgefield Restaurants,Midwest,2025-12-10,2025,Q4,91,False,False,STR-05
+AUD-10722,#8085,Ridgefield Restaurants,Midwest,2026-03-01,2026,Q1,90,False,True,STR-01
+AUD-10723,#8085,Ridgefield Restaurants,Midwest,2026-05-15,2026,Q2,91,False,False,STR-04
+AUD-10724,#8086,Ridgefield Restaurants,Midwest,2024-03-01,2024,Q1,90,False,False,STR-02
+AUD-10725,#8086,Ridgefield Restaurants,Midwest,2024-09-02,2024,Q3,88,False,False,STR-01
+AUD-10726,#8086,Ridgefield Restaurants,Midwest,2024-12-05,2024,Q4,88,False,False,STR-04
+AUD-10727,#8086,Ridgefield Restaurants,Midwest,2025-03-18,2025,Q1,88,False,False,STR-05
+AUD-10728,#8086,Ridgefield Restaurants,Midwest,2025-05-30,2025,Q2,88,False,True,STR-01
+AUD-10729,#8086,Ridgefield Restaurants,Midwest,2025-09-08,2025,Q3,90,False,False,STR-05
+AUD-10730,#8086,Ridgefield Restaurants,Midwest,2025-12-18,2025,Q4,88,False,False,STR-01
+AUD-10731,#8086,Ridgefield Restaurants,Midwest,2026-03-07,2026,Q1,88,False,False,STR-03
+AUD-10732,#8086,Ridgefield Restaurants,Midwest,2026-05-26,2026,Q2,90,False,False,STR-02
+AUD-10733,#8087,Ridgefield Restaurants,Midwest,2024-03-19,2024,Q1,89,False,False,STR-02
+AUD-10734,#8087,Ridgefield Restaurants,Midwest,2024-06-10,2024,Q2,89,False,False,STR-02
+AUD-10735,#8087,Ridgefield Restaurants,Midwest,2024-09-05,2024,Q3,88,False,False,STR-02
+AUD-10736,#8087,Ridgefield Restaurants,Midwest,2025-03-28,2025,Q1,88,False,False,STR-01
+AUD-10737,#8087,Ridgefield Restaurants,Midwest,2025-06-17,2025,Q2,88,False,False,STR-04
+AUD-10738,#8087,Ridgefield Restaurants,Midwest,2025-09-06,2025,Q3,88,False,False,STR-02
+AUD-10739,#8087,Ridgefield Restaurants,Midwest,2025-12-22,2025,Q4,89,False,False,STR-03
+AUD-10740,#8087,Ridgefield Restaurants,Midwest,2026-03-26,2026,Q1,89,False,False,STR-04
+AUD-10741,#8087,Ridgefield Restaurants,Midwest,2026-05-21,2026,Q2,89,True,True,STR-04
+AUD-10742,#8088,Ridgefield Restaurants,Midwest,2024-03-29,2024,Q1,92,False,False,STR-04
+AUD-10743,#8088,Ridgefield Restaurants,Midwest,2024-06-06,2024,Q2,94,False,False,STR-05
+AUD-10744,#8088,Ridgefield Restaurants,Midwest,2024-09-18,2024,Q3,92,False,False,STR-01
+AUD-10745,#8088,Ridgefield Restaurants,Midwest,2024-11-30,2024,Q4,92,True,False,STR-02
+AUD-10746,#8088,Ridgefield Restaurants,Midwest,2025-03-13,2025,Q1,91,True,False,STR-05
+AUD-10747,#8088,Ridgefield Restaurants,Midwest,2025-06-13,2025,Q2,94,False,False,STR-04
+AUD-10748,#8088,Ridgefield Restaurants,Midwest,2025-12-25,2025,Q4,92,False,False,STR-02
+AUD-10749,#8088,Ridgefield Restaurants,Midwest,2026-03-18,2026,Q1,91,False,True,STR-02
+AUD-10750,#8088,Ridgefield Restaurants,Midwest,2026-05-17,2026,Q2,94,False,False,STR-03
+AUD-10751,#8089,Summit Operators,Midwest,2024-03-27,2024,Q1,88,False,False,STR-04
+AUD-10752,#8089,Summit Operators,Midwest,2024-06-12,2024,Q2,89,False,False,STR-04
+AUD-10753,#8089,Summit Operators,Midwest,2024-09-14,2024,Q3,89,False,True,STR-05
+AUD-10754,#8089,Summit Operators,Midwest,2024-12-17,2024,Q4,89,False,True,STR-04
+AUD-10755,#8089,Summit Operators,Midwest,2025-03-08,2025,Q1,88,False,False,STR-03
+AUD-10756,#8089,Summit Operators,Midwest,2025-06-08,2025,Q2,90,False,True,STR-04
+AUD-10757,#8089,Summit Operators,Midwest,2025-09-08,2025,Q3,89,True,True,STR-05
+AUD-10758,#8089,Summit Operators,Midwest,2025-11-30,2025,Q4,87,False,False,STR-01
+AUD-10759,#8089,Summit Operators,Midwest,2026-03-04,2026,Q1,87,True,False,STR-03
+AUD-10760,#8089,Summit Operators,Midwest,2026-05-11,2026,Q2,88,False,False,STR-01
+AUD-10761,#8090,Summit Operators,Midwest,2024-03-08,2024,Q1,89,False,False,STR-01
+AUD-10762,#8090,Summit Operators,Midwest,2024-09-15,2024,Q3,89,False,False,STR-05
+AUD-10763,#8090,Summit Operators,Midwest,2024-12-10,2024,Q4,89,False,False,STR-04
+AUD-10764,#8090,Summit Operators,Midwest,2025-03-24,2025,Q1,89,False,False,STR-01
+AUD-10765,#8090,Summit Operators,Midwest,2025-09-10,2025,Q3,87,False,False,STR-04
+AUD-10766,#8090,Summit Operators,Midwest,2025-11-29,2025,Q4,88,False,False,STR-04
+AUD-10767,#8090,Summit Operators,Midwest,2026-05-30,2026,Q2,89,True,True,STR-01
+AUD-10768,#8091,Summit Operators,Midwest,2024-06-26,2024,Q2,87,False,False,STR-01
+AUD-10769,#8091,Summit Operators,Midwest,2024-12-13,2024,Q4,86,False,False,STR-05
+AUD-10770,#8091,Summit Operators,Midwest,2025-03-15,2025,Q1,88,False,False,STR-04
+AUD-10771,#8091,Summit Operators,Midwest,2025-06-05,2025,Q2,85,False,True,STR-01
+AUD-10772,#8091,Summit Operators,Midwest,2025-09-05,2025,Q3,86,False,False,STR-04
+AUD-10773,#8091,Summit Operators,Midwest,2025-12-05,2025,Q4,87,False,False,STR-01
+AUD-10774,#8091,Summit Operators,Midwest,2026-02-27,2026,Q1,86,False,False,STR-05
+AUD-10775,#8091,Summit Operators,Midwest,2026-05-17,2026,Q2,87,False,True,STR-04
+AUD-10776,#8092,Trailhead Brands,Midwest,2024-03-25,2024,Q1,89,False,False,STR-02
+AUD-10777,#8092,Trailhead Brands,Midwest,2024-06-16,2024,Q2,88,False,False,STR-05
+AUD-10778,#8092,Trailhead Brands,Midwest,2024-09-07,2024,Q3,88,False,False,STR-05
+AUD-10779,#8092,Trailhead Brands,Midwest,2024-12-10,2024,Q4,88,False,False,STR-01
+AUD-10780,#8092,Trailhead Brands,Midwest,2025-03-07,2025,Q1,88,False,False,STR-04
+AUD-10781,#8092,Trailhead Brands,Midwest,2025-06-09,2025,Q2,87,False,False,STR-02
+AUD-10782,#8092,Trailhead Brands,Midwest,2025-09-13,2025,Q3,87,False,False,STR-05
+AUD-10783,#8092,Trailhead Brands,Midwest,2025-12-14,2025,Q4,88,False,False,STR-04
+AUD-10784,#8092,Trailhead Brands,Midwest,2026-03-05,2026,Q1,89,False,True,STR-01
+AUD-10785,#8092,Trailhead Brands,Midwest,2026-05-11,2026,Q2,88,False,False,STR-04
+AUD-10786,#8093,Trailhead Brands,Midwest,2024-03-28,2024,Q1,87,False,False,STR-03
+AUD-10787,#8093,Trailhead Brands,Midwest,2024-05-31,2024,Q2,86,False,True,STR-05
+AUD-10788,#8093,Trailhead Brands,Midwest,2024-09-18,2024,Q3,87,False,False,STR-02
+AUD-10789,#8093,Trailhead Brands,Midwest,2024-12-23,2024,Q4,88,False,False,STR-05
+AUD-10790,#8093,Trailhead Brands,Midwest,2025-03-01,2025,Q1,86,False,False,STR-02
+AUD-10791,#8093,Trailhead Brands,Midwest,2025-09-10,2025,Q3,86,False,False,STR-01
+AUD-10792,#8093,Trailhead Brands,Midwest,2025-12-07,2025,Q4,87,False,False,STR-04
+AUD-10793,#8093,Trailhead Brands,Midwest,2026-03-20,2026,Q1,87,False,True,STR-04
+AUD-10794,#8093,Trailhead Brands,Midwest,2026-05-02,2026,Q2,88,False,False,STR-02
+AUD-10795,#8094,Trailhead Brands,Midwest,2024-03-08,2024,Q1,92,False,True,STR-04
+AUD-10796,#8094,Trailhead Brands,Midwest,2024-05-31,2024,Q2,90,False,False,STR-04
+AUD-10797,#8094,Trailhead Brands,Midwest,2024-09-20,2024,Q3,90,False,False,STR-03
+AUD-10798,#8094,Trailhead Brands,Midwest,2024-12-17,2024,Q4,91,False,False,STR-03
+AUD-10799,#8094,Trailhead Brands,Midwest,2025-03-14,2025,Q1,92,False,False,STR-05
+AUD-10800,#8094,Trailhead Brands,Midwest,2025-06-11,2025,Q2,93,False,False,STR-05
+AUD-10801,#8094,Trailhead Brands,Midwest,2025-09-03,2025,Q3,92,False,False,STR-04
+AUD-10802,#8094,Trailhead Brands,Midwest,2025-12-04,2025,Q4,91,False,True,STR-02
+AUD-10803,#8095,Trailhead Brands,Midwest,2024-03-16,2024,Q1,87,False,False,STR-03
+AUD-10804,#8095,Trailhead Brands,Midwest,2024-06-16,2024,Q2,89,False,False,STR-01
+AUD-10805,#8095,Trailhead Brands,Midwest,2024-09-19,2024,Q3,89,False,False,STR-01
+AUD-10806,#8095,Trailhead Brands,Midwest,2024-12-06,2024,Q4,89,False,False,STR-04
+AUD-10807,#8095,Trailhead Brands,Midwest,2025-03-15,2025,Q1,88,False,False,STR-03
+AUD-10808,#8095,Trailhead Brands,Midwest,2025-06-26,2025,Q2,88,False,True,STR-03
+AUD-10809,#8095,Trailhead Brands,Midwest,2025-09-12,2025,Q3,87,False,True,STR-04
+AUD-10810,#8095,Trailhead Brands,Midwest,2025-12-09,2025,Q4,88,False,False,STR-02
+AUD-10811,#8095,Trailhead Brands,Midwest,2026-05-09,2026,Q2,89,False,False,STR-02
+AUD-10812,#8096,Trailhead Brands,Midwest,2024-03-29,2024,Q1,91,False,False,STR-01
+AUD-10813,#8096,Trailhead Brands,Midwest,2024-06-03,2024,Q2,90,False,True,STR-01
+AUD-10814,#8096,Trailhead Brands,Midwest,2024-09-25,2024,Q3,91,False,False,STR-01
+AUD-10815,#8096,Trailhead Brands,Midwest,2024-12-15,2024,Q4,90,False,False,STR-01
+AUD-10816,#8096,Trailhead Brands,Midwest,2025-03-01,2025,Q1,90,False,True,STR-01
+AUD-10817,#8096,Trailhead Brands,Midwest,2025-06-16,2025,Q2,89,False,False,STR-04
+AUD-10818,#8096,Trailhead Brands,Midwest,2025-09-19,2025,Q3,90,False,False,STR-04
+AUD-10819,#8096,Trailhead Brands,Midwest,2025-12-21,2025,Q4,88,False,False,STR-04
+AUD-10820,#8096,Trailhead Brands,Midwest,2026-03-11,2026,Q1,88,False,True,STR-05
+AUD-10821,#8096,Trailhead Brands,Midwest,2026-05-13,2026,Q2,88,True,False,STR-04
+AUD-10822,#8097,Urban Edge Group,West,2024-03-10,2024,Q1,90,False,False,STR-04
+AUD-10823,#8097,Urban Edge Group,West,2024-06-03,2024,Q2,92,False,False,STR-01
+AUD-10824,#8097,Urban Edge Group,West,2024-09-24,2024,Q3,90,True,False,STR-03
+AUD-10825,#8097,Urban Edge Group,West,2024-12-19,2024,Q4,90,False,False,STR-04
+AUD-10826,#8097,Urban Edge Group,West,2025-03-03,2025,Q1,89,False,False,STR-03
+AUD-10827,#8097,Urban Edge Group,West,2025-06-17,2025,Q2,91,True,False,STR-04
+AUD-10828,#8097,Urban Edge Group,West,2025-08-29,2025,Q3,91,False,False,STR-02
+AUD-10829,#8097,Urban Edge Group,West,2025-12-12,2025,Q4,92,False,False,STR-04
+AUD-10830,#8097,Urban Edge Group,West,2026-03-14,2026,Q1,92,False,False,STR-02
+AUD-10831,#8097,Urban Edge Group,West,2026-05-07,2026,Q2,91,False,True,STR-04
+AUD-10832,#8098,Urban Edge Group,West,2024-03-02,2024,Q1,90,False,False,STR-01
+AUD-10833,#8098,Urban Edge Group,West,2024-12-26,2024,Q4,92,False,True,STR-02
+AUD-10834,#8098,Urban Edge Group,West,2025-03-19,2025,Q1,90,False,False,STR-04
+AUD-10835,#8098,Urban Edge Group,West,2025-06-25,2025,Q2,89,False,False,STR-03
+AUD-10836,#8098,Urban Edge Group,West,2025-09-25,2025,Q3,90,False,False,STR-01
+AUD-10837,#8098,Urban Edge Group,West,2025-12-20,2025,Q4,91,False,True,STR-05
+AUD-10838,#8098,Urban Edge Group,West,2026-03-18,2026,Q1,89,False,False,STR-02
+AUD-10839,#8098,Urban Edge Group,West,2026-05-07,2026,Q2,90,False,False,STR-05
+AUD-10840,#8099,Urban Edge Group,West,2024-06-12,2024,Q2,88,False,False,STR-05
+AUD-10841,#8099,Urban Edge Group,West,2024-09-09,2024,Q3,89,False,False,STR-04
+AUD-10842,#8099,Urban Edge Group,West,2024-12-01,2024,Q4,88,False,True,STR-01
+AUD-10843,#8099,Urban Edge Group,West,2025-03-12,2025,Q1,89,False,True,STR-05
+AUD-10844,#8099,Urban Edge Group,West,2025-09-02,2025,Q3,89,False,False,STR-02
+AUD-10845,#8099,Urban Edge Group,West,2025-12-05,2025,Q4,87,False,True,STR-04
+AUD-10846,#8099,Urban Edge Group,West,2026-03-17,2026,Q1,90,False,False,STR-04
+AUD-10847,#8099,Urban Edge Group,West,2026-05-21,2026,Q2,89,False,False,STR-05
+AUD-10848,#8100,Urban Edge Group,West,2024-03-10,2024,Q1,94,False,False,STR-04
+AUD-10849,#8100,Urban Edge Group,West,2024-06-22,2024,Q2,93,False,False,STR-05
+AUD-10850,#8100,Urban Edge Group,West,2024-09-10,2024,Q3,92,False,True,STR-03
+AUD-10851,#8100,Urban Edge Group,West,2024-12-10,2024,Q4,93,False,False,STR-02
+AUD-10852,#8100,Urban Edge Group,West,2025-03-06,2025,Q1,93,False,False,STR-03
+AUD-10853,#8100,Urban Edge Group,West,2025-09-19,2025,Q3,93,False,False,STR-05
+AUD-10854,#8100,Urban Edge Group,West,2025-12-07,2025,Q4,94,False,True,STR-04
+AUD-10855,#8100,Urban Edge Group,West,2026-03-19,2026,Q1,92,False,False,STR-04
+AUD-10856,#8100,Urban Edge Group,West,2026-05-14,2026,Q2,93,False,True,STR-02
+AUD-10857,#8101,Urban Edge Group,West,2024-06-03,2024,Q2,92,False,False,STR-02
+AUD-10858,#8101,Urban Edge Group,West,2024-09-20,2024,Q3,92,False,True,STR-03
+AUD-10859,#8101,Urban Edge Group,West,2024-12-07,2024,Q4,93,False,False,STR-05
+AUD-10860,#8101,Urban Edge Group,West,2025-03-15,2025,Q1,93,False,False,STR-01
+AUD-10861,#8101,Urban Edge Group,West,2025-06-03,2025,Q2,92,False,False,STR-05
+AUD-10862,#8101,Urban Edge Group,West,2025-09-20,2025,Q3,93,False,False,STR-03
+AUD-10863,#8101,Urban Edge Group,West,2025-12-12,2025,Q4,92,False,False,STR-03
+AUD-10864,#8101,Urban Edge Group,West,2026-03-13,2026,Q1,92,False,False,STR-02
+AUD-10865,#8102,Urban Edge Group,West,2024-03-28,2024,Q1,86,False,False,STR-05
+AUD-10866,#8102,Urban Edge Group,West,2024-06-11,2024,Q2,85,False,True,STR-03
+AUD-10867,#8102,Urban Edge Group,West,2024-09-15,2024,Q3,85,False,False,STR-05
+AUD-10868,#8102,Urban Edge Group,West,2024-11-29,2024,Q4,85,True,False,STR-02
+AUD-10869,#8102,Urban Edge Group,West,2025-09-07,2025,Q3,87,False,False,STR-05
+AUD-10870,#8102,Urban Edge Group,West,2026-02-28,2026,Q1,87,False,True,STR-05
+AUD-10871,#8102,Urban Edge Group,West,2026-05-03,2026,Q2,85,False,True,STR-04
+AUD-10872,#8103,Valley Forge Foods,West,2024-03-28,2024,Q1,82,False,True,STR-05
+AUD-10873,#8103,Valley Forge Foods,West,2024-06-27,2024,Q2,84,False,False,STR-01
+AUD-10874,#8103,Valley Forge Foods,West,2024-12-13,2024,Q4,84,False,True,STR-02
+AUD-10875,#8103,Valley Forge Foods,West,2025-03-09,2025,Q1,82,False,False,STR-05
+AUD-10876,#8103,Valley Forge Foods,West,2025-06-21,2025,Q2,83,False,False,STR-04
+AUD-10877,#8103,Valley Forge Foods,West,2025-12-03,2025,Q4,84,False,True,STR-02
+AUD-10878,#8103,Valley Forge Foods,West,2026-03-24,2026,Q1,85,False,True,STR-03
+AUD-10879,#8103,Valley Forge Foods,West,2026-05-06,2026,Q2,83,False,False,STR-05
+AUD-10880,#8104,Valley Forge Foods,West,2024-03-23,2024,Q1,84,False,True,STR-01
+AUD-10881,#8104,Valley Forge Foods,West,2024-06-23,2024,Q2,83,False,False,STR-01
+AUD-10882,#8104,Valley Forge Foods,West,2024-09-25,2024,Q3,84,False,True,STR-04
+AUD-10883,#8104,Valley Forge Foods,West,2024-12-19,2024,Q4,84,False,False,STR-05
+AUD-10884,#8104,Valley Forge Foods,West,2025-06-13,2025,Q2,85,False,False,STR-03
+AUD-10885,#8104,Valley Forge Foods,West,2025-09-07,2025,Q3,85,False,False,STR-04
+AUD-10886,#8104,Valley Forge Foods,West,2025-12-10,2025,Q4,85,False,True,STR-04
+AUD-10887,#8104,Valley Forge Foods,West,2026-03-15,2026,Q1,85,False,False,STR-03
+AUD-10888,#8105,Valley Forge Foods,West,2024-03-23,2024,Q1,87,False,True,STR-03
+AUD-10889,#8105,Valley Forge Foods,West,2024-06-16,2024,Q2,87,False,False,STR-05
+AUD-10890,#8105,Valley Forge Foods,West,2024-12-05,2024,Q4,89,True,False,STR-01
+AUD-10891,#8105,Valley Forge Foods,West,2025-03-23,2025,Q1,88,False,True,STR-04
+AUD-10892,#8105,Valley Forge Foods,West,2025-06-05,2025,Q2,89,False,False,STR-05
+AUD-10893,#8105,Valley Forge Foods,West,2025-09-09,2025,Q3,88,False,True,STR-05
+AUD-10894,#8105,Valley Forge Foods,West,2025-12-21,2025,Q4,87,False,True,STR-05
+AUD-10895,#8105,Valley Forge Foods,West,2026-03-23,2026,Q1,88,False,False,STR-04
+AUD-10896,#8105,Valley Forge Foods,West,2026-05-07,2026,Q2,89,False,False,STR-05
+AUD-10897,#8106,Valley Forge Foods,West,2024-03-27,2024,Q1,92,False,True,STR-01
+AUD-10898,#8106,Valley Forge Foods,West,2024-06-10,2024,Q2,91,False,False,STR-02
+AUD-10899,#8106,Valley Forge Foods,West,2024-09-18,2024,Q3,91,False,False,STR-01
+AUD-10900,#8106,Valley Forge Foods,West,2024-12-01,2024,Q4,91,False,True,STR-01
+AUD-10901,#8106,Valley Forge Foods,West,2025-03-27,2025,Q1,93,False,False,STR-02
+AUD-10902,#8106,Valley Forge Foods,West,2025-06-23,2025,Q2,92,False,False,STR-02
+AUD-10903,#8106,Valley Forge Foods,West,2025-09-17,2025,Q3,92,False,False,STR-03
+AUD-10904,#8106,Valley Forge Foods,West,2025-12-18,2025,Q4,92,False,False,STR-01
+AUD-10905,#8106,Valley Forge Foods,West,2026-03-24,2026,Q1,92,False,True,STR-03
+AUD-10906,#8106,Valley Forge Foods,West,2026-05-27,2026,Q2,90,False,False,STR-02
+AUD-10907,#8107,Westport Holdings,West,2024-03-03,2024,Q1,89,False,False,STR-04
+AUD-10908,#8107,Westport Holdings,West,2024-06-26,2024,Q2,86,True,False,STR-04
+AUD-10909,#8107,Westport Holdings,West,2024-09-20,2024,Q3,89,False,False,STR-05
+AUD-10910,#8107,Westport Holdings,West,2024-12-25,2024,Q4,88,False,False,STR-03
+AUD-10911,#8107,Westport Holdings,West,2025-03-20,2025,Q1,86,False,False,STR-03
+AUD-10912,#8107,Westport Holdings,West,2025-05-30,2025,Q2,86,False,False,STR-02
+AUD-10913,#8107,Westport Holdings,West,2025-09-14,2025,Q3,88,False,False,STR-02
+AUD-10914,#8107,Westport Holdings,West,2026-02-27,2026,Q1,88,False,False,STR-03
+AUD-10915,#8107,Westport Holdings,West,2026-05-03,2026,Q2,86,False,True,STR-04
+AUD-10916,#8108,Westport Holdings,West,2024-03-25,2024,Q1,87,False,False,STR-01
+AUD-10917,#8108,Westport Holdings,West,2024-12-08,2024,Q4,89,False,True,STR-04
+AUD-10918,#8108,Westport Holdings,West,2025-03-06,2025,Q1,87,True,False,STR-02
+AUD-10919,#8108,Westport Holdings,West,2025-06-15,2025,Q2,88,False,False,STR-01
+AUD-10920,#8108,Westport Holdings,West,2025-12-24,2025,Q4,89,False,True,STR-05
+AUD-10921,#8108,Westport Holdings,West,2026-02-27,2026,Q1,90,False,False,STR-04
+AUD-10922,#8108,Westport Holdings,West,2026-05-28,2026,Q2,88,False,True,STR-01
+AUD-10923,#8109,Westport Holdings,West,2024-03-22,2024,Q1,80,False,False,STR-02
+AUD-10924,#8109,Westport Holdings,West,2024-06-04,2024,Q2,78,False,False,STR-03
+AUD-10925,#8109,Westport Holdings,West,2024-09-08,2024,Q3,81,True,False,STR-05
+AUD-10926,#8109,Westport Holdings,West,2024-12-26,2024,Q4,80,False,False,STR-04
+AUD-10927,#8109,Westport Holdings,West,2025-03-04,2025,Q1,81,False,False,STR-03
+AUD-10928,#8109,Westport Holdings,West,2025-06-03,2025,Q2,80,False,False,STR-04
+AUD-10929,#8109,Westport Holdings,West,2025-09-21,2025,Q3,80,False,False,STR-05
+AUD-10930,#8109,Westport Holdings,West,2026-03-20,2026,Q1,80,False,False,STR-05
+AUD-10931,#8109,Westport Holdings,West,2026-05-06,2026,Q2,80,False,True,STR-04
+AUD-10932,#8110,Westport Holdings,West,2024-03-11,2024,Q1,83,False,False,STR-05
+AUD-10933,#8110,Westport Holdings,West,2024-06-13,2024,Q2,83,False,True,STR-02
+AUD-10934,#8110,Westport Holdings,West,2024-09-08,2024,Q3,82,False,True,STR-01
+AUD-10935,#8110,Westport Holdings,West,2024-12-12,2024,Q4,82,False,False,STR-04
+AUD-10936,#8110,Westport Holdings,West,2025-03-22,2025,Q1,84,False,False,STR-03
+AUD-10937,#8110,Westport Holdings,West,2025-06-15,2025,Q2,84,False,False,STR-01
+AUD-10938,#8110,Westport Holdings,West,2025-09-12,2025,Q3,84,False,False,STR-01
+AUD-10939,#8110,Westport Holdings,West,2025-12-11,2025,Q4,84,False,True,STR-04
+AUD-10940,#8110,Westport Holdings,West,2026-03-14,2026,Q1,84,False,False,STR-02
+AUD-10941,#8110,Westport Holdings,West,2026-05-07,2026,Q2,82,False,False,STR-02
+AUD-10942,#8111,Westport Holdings,West,2024-03-18,2024,Q1,81,False,True,STR-02
+AUD-10943,#8111,Westport Holdings,West,2024-06-27,2024,Q2,80,False,False,STR-04
+AUD-10944,#8111,Westport Holdings,West,2024-09-18,2024,Q3,82,False,False,STR-03
+AUD-10945,#8111,Westport Holdings,West,2024-12-06,2024,Q4,80,False,False,STR-02
+AUD-10946,#8111,Westport Holdings,West,2025-02-28,2025,Q1,80,False,False,STR-04
+AUD-10947,#8111,Westport Holdings,West,2025-06-09,2025,Q2,80,False,False,STR-02
+AUD-10948,#8111,Westport Holdings,West,2025-09-12,2025,Q3,81,False,False,STR-03
+AUD-10949,#8111,Westport Holdings,West,2025-12-07,2025,Q4,81,True,False,STR-03
+AUD-10950,#8111,Westport Holdings,West,2026-03-12,2026,Q1,81,False,True,STR-04
+AUD-10951,#8111,Westport Holdings,West,2026-05-21,2026,Q2,79,False,False,STR-05
+AUD-10952,#8112,Yorktown Subs,West,2024-06-09,2024,Q2,85,False,False,STR-03
+AUD-10953,#8112,Yorktown Subs,West,2024-09-05,2024,Q3,85,False,False,STR-04
+AUD-10954,#8112,Yorktown Subs,West,2024-12-14,2024,Q4,83,False,True,STR-03
+AUD-10955,#8112,Yorktown Subs,West,2025-03-20,2025,Q1,85,True,False,STR-03
+AUD-10956,#8112,Yorktown Subs,West,2025-05-30,2025,Q2,85,False,False,STR-05
+AUD-10957,#8112,Yorktown Subs,West,2025-09-18,2025,Q3,83,False,False,STR-04
+AUD-10958,#8112,Yorktown Subs,West,2026-03-18,2026,Q1,83,False,False,STR-02
+AUD-10959,#8112,Yorktown Subs,West,2026-05-25,2026,Q2,85,False,True,STR-03
+AUD-10960,#8113,Yorktown Subs,West,2024-03-15,2024,Q1,84,False,True,STR-04
+AUD-10961,#8113,Yorktown Subs,West,2024-06-14,2024,Q2,85,True,False,STR-05
+AUD-10962,#8113,Yorktown Subs,West,2024-08-30,2024,Q3,86,False,False,STR-03
+AUD-10963,#8113,Yorktown Subs,West,2024-12-09,2024,Q4,85,True,False,STR-02
+AUD-10964,#8113,Yorktown Subs,West,2025-09-10,2025,Q3,85,False,False,STR-05
+AUD-10965,#8113,Yorktown Subs,West,2025-12-15,2025,Q4,87,False,False,STR-03
+AUD-10966,#8113,Yorktown Subs,West,2026-03-26,2026,Q1,84,False,False,STR-02
+AUD-10967,#8113,Yorktown Subs,West,2026-05-08,2026,Q2,84,False,False,STR-04
+AUD-10968,#8114,Yorktown Subs,West,2024-03-10,2024,Q1,85,False,True,STR-04
+AUD-10969,#8114,Yorktown Subs,West,2024-06-06,2024,Q2,83,True,False,STR-04
+AUD-10970,#8114,Yorktown Subs,West,2024-09-21,2024,Q3,85,False,False,STR-05
+AUD-10971,#8114,Yorktown Subs,West,2025-02-28,2025,Q1,84,False,False,STR-02
+AUD-10972,#8114,Yorktown Subs,West,2025-06-21,2025,Q2,85,False,False,STR-03
+AUD-10973,#8114,Yorktown Subs,West,2025-09-13,2025,Q3,85,False,True,STR-04
+AUD-10974,#8114,Yorktown Subs,West,2025-12-17,2025,Q4,86,False,True,STR-02
+AUD-10975,#8114,Yorktown Subs,West,2026-03-17,2026,Q1,84,False,False,STR-02
+AUD-10976,#8114,Yorktown Subs,West,2026-05-25,2026,Q2,85,False,False,STR-05
+AUD-10977,#8115,Zenith Restaurants,West,2024-03-17,2024,Q1,93,False,False,STR-01
+AUD-10978,#8115,Zenith Restaurants,West,2024-06-03,2024,Q2,91,False,False,STR-05
+AUD-10979,#8115,Zenith Restaurants,West,2024-09-02,2024,Q3,92,False,False,STR-05
+AUD-10980,#8115,Zenith Restaurants,West,2024-12-07,2024,Q4,92,False,False,STR-04
+AUD-10981,#8115,Zenith Restaurants,West,2025-02-28,2025,Q1,92,False,False,STR-04
+AUD-10982,#8115,Zenith Restaurants,West,2025-06-20,2025,Q2,91,False,False,STR-03
+AUD-10983,#8115,Zenith Restaurants,West,2025-12-04,2025,Q4,91,True,False,STR-04
+AUD-10984,#8115,Zenith Restaurants,West,2026-02-28,2026,Q1,92,False,False,STR-02
+AUD-10985,#8115,Zenith Restaurants,West,2026-05-14,2026,Q2,93,False,False,STR-04
+AUD-10986,#8116,Zenith Restaurants,West,2024-03-01,2024,Q1,87,False,False,STR-03
+AUD-10987,#8116,Zenith Restaurants,West,2024-06-02,2024,Q2,87,False,False,STR-02
+AUD-10988,#8116,Zenith Restaurants,West,2024-12-23,2024,Q4,88,False,False,STR-02
+AUD-10989,#8116,Zenith Restaurants,West,2025-03-17,2025,Q1,88,False,False,STR-05
+AUD-10990,#8116,Zenith Restaurants,West,2025-06-11,2025,Q2,88,False,True,STR-03
+AUD-10991,#8116,Zenith Restaurants,West,2025-09-02,2025,Q3,87,False,False,STR-02
+AUD-10992,#8116,Zenith Restaurants,West,2025-11-30,2025,Q4,88,False,True,STR-02
+AUD-10993,#8116,Zenith Restaurants,West,2026-03-19,2026,Q1,88,False,False,STR-02
+AUD-10994,#8116,Zenith Restaurants,West,2026-05-14,2026,Q2,86,False,False,STR-05
+AUD-10995,#8117,Zenith Restaurants,West,2024-03-13,2024,Q1,93,False,False,STR-02
+AUD-10996,#8117,Zenith Restaurants,West,2024-08-30,2024,Q3,91,True,False,STR-02
+AUD-10997,#8117,Zenith Restaurants,West,2025-03-18,2025,Q1,91,False,False,STR-01
+AUD-10998,#8117,Zenith Restaurants,West,2025-06-24,2025,Q2,92,False,False,STR-05
+AUD-10999,#8117,Zenith Restaurants,West,2025-12-01,2025,Q4,91,False,False,STR-04
+AUD-11000,#8117,Zenith Restaurants,West,2026-03-05,2026,Q1,93,False,False,STR-04
+AUD-11001,#8117,Zenith Restaurants,West,2026-05-15,2026,Q2,93,False,False,STR-03
+AUD-11002,#8118,Zenith Restaurants,West,2024-03-08,2024,Q1,87,False,False,STR-03
+AUD-11003,#8118,Zenith Restaurants,West,2024-06-07,2024,Q2,87,False,False,STR-05
+AUD-11004,#8118,Zenith Restaurants,West,2024-09-11,2024,Q3,88,False,False,STR-05
+AUD-11005,#8118,Zenith Restaurants,West,2024-12-21,2024,Q4,87,False,True,STR-01
+AUD-11006,#8118,Zenith Restaurants,West,2025-03-03,2025,Q1,88,False,False,STR-05
+AUD-11007,#8118,Zenith Restaurants,West,2025-06-03,2025,Q2,87,False,False,STR-02
+AUD-11008,#8118,Zenith Restaurants,West,2025-12-05,2025,Q4,88,False,True,STR-05
+AUD-11009,#8118,Zenith Restaurants,West,2026-03-02,2026,Q1,89,True,False,STR-04
+AUD-11010,#8118,Zenith Restaurants,West,2026-05-19,2026,Q2,89,False,False,STR-04
+AUD-11011,#8119,Zenith Restaurants,West,2024-03-03,2024,Q1,92,True,False,STR-01
+AUD-11012,#8119,Zenith Restaurants,West,2024-06-19,2024,Q2,92,False,False,STR-01
+AUD-11013,#8119,Zenith Restaurants,West,2024-09-15,2024,Q3,93,False,False,STR-04
+AUD-11014,#8119,Zenith Restaurants,West,2024-12-21,2024,Q4,92,False,False,STR-02
+AUD-11015,#8119,Zenith Restaurants,West,2025-03-01,2025,Q1,94,False,True,STR-04
+AUD-11016,#8119,Zenith Restaurants,West,2025-09-26,2025,Q3,92,False,True,STR-05
+AUD-11017,#8119,Zenith Restaurants,West,2025-12-20,2025,Q4,92,False,True,STR-01
+AUD-11018,#8119,Zenith Restaurants,West,2026-03-18,2026,Q1,92,False,False,STR-03
+AUD-11019,#8119,Zenith Restaurants,West,2026-05-08,2026,Q2,93,False,False,STR-03
+AUD-11020,#8120,Zenith Restaurants,West,2024-03-26,2024,Q1,85,False,False,STR-03
+AUD-11021,#8120,Zenith Restaurants,West,2024-06-04,2024,Q2,86,False,False,STR-04
+AUD-11022,#8120,Zenith Restaurants,West,2024-09-05,2024,Q3,84,False,False,STR-01
+AUD-11023,#8120,Zenith Restaurants,West,2025-03-01,2025,Q1,84,False,False,STR-04
+AUD-11024,#8120,Zenith Restaurants,West,2025-09-10,2025,Q3,85,False,True,STR-04
+AUD-11025,#8120,Zenith Restaurants,West,2025-12-19,2025,Q4,86,False,True,STR-04
+AUD-11026,#8120,Zenith Restaurants,West,2026-03-16,2026,Q1,84,False,False,STR-05
+AUD-11027,#8120,Zenith Restaurants,West,2026-05-18,2026,Q2,84,False,True,STR-04
+AUD-11028,#8121,Zenith Restaurants,West,2024-03-14,2024,Q1,89,False,True,STR-03
+AUD-11029,#8121,Zenith Restaurants,West,2024-06-19,2024,Q2,89,False,False,STR-01
+AUD-11030,#8121,Zenith Restaurants,West,2024-09-15,2024,Q3,89,False,False,STR-03
+AUD-11031,#8121,Zenith Restaurants,West,2024-12-22,2024,Q4,91,False,False,STR-04
+AUD-11032,#8121,Zenith Restaurants,West,2025-03-16,2025,Q1,90,False,False,STR-01
+AUD-11033,#8121,Zenith Restaurants,West,2025-06-16,2025,Q2,90,False,True,STR-03
+AUD-11034,#8121,Zenith Restaurants,West,2025-08-29,2025,Q3,90,False,True,STR-03
+AUD-11035,#8121,Zenith Restaurants,West,2025-12-14,2025,Q4,90,False,False,STR-04
+AUD-11036,#8121,Zenith Restaurants,West,2026-03-18,2026,Q1,89,False,False,STR-04
+AUD-11037,#8121,Zenith Restaurants,West,2026-05-29,2026,Q2,89,False,False,STR-02
+AUD-11038,#18013,Brett Lewis,West,2025-03-10,2025,Q1,24,FALSE,TRUE,STR-01
+AUD-11039,#18013,Brett Lewis,West,2025-05-15,2025,Q2,25,FALSE,FALSE,STR-03
+AUD-11040,#18020,Brett Lewis,West,2025-03-10,2025,Q1,84,FALSE,FALSE,STR-02
+AUD-11041,#18020,Brett Lewis,West,2025-05-15,2025,Q2,84,FALSE,FALSE,STR-01
+AUD-11042,#18031,Brett Lewis,West,2025-03-10,2025,Q1,87,FALSE,TRUE,STR-05
+AUD-11043,#18031,Brett Lewis,West,2025-05-15,2025,Q2,87,FALSE,FALSE,STR-05
+AUD-11044,#18024,Brett Lewis,West,2025-03-10,2025,Q1,89,FALSE,FALSE,STR-01
+AUD-11045,#18024,Brett Lewis,West,2025-05-15,2025,Q2,89,FALSE,FALSE,STR-01
+AUD-11046,#18030,Brett Lewis,West,2025-03-10,2025,Q1,89,FALSE,FALSE,STR-02
+AUD-11047,#18030,Brett Lewis,West,2025-05-15,2025,Q2,87,FALSE,TRUE,STR-05

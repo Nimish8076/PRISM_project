@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environment — do NOT commit; recreate with:
+#   python -m venv venv && pip install -r requirements.txt
+venv/
+.venv/
+env/
+
+# Secrets
+.env
+
+# PRISM runtime data (recreated automatically)
+prism_history.db
+prism_history_*.db
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# MS Office lock/temp files
+~$*
+
+# Backups & runtime output (recreated automatically)
+backups/
+insights_latest.csv
+insights_history.csv
+*.db-journal
+jm-data-assistant/
+
+# Documents: keep the technical docs; do NOT commit decks, scripts, drafts, or the share zip
+Documents/*.pptx
+Documents/*.zip
+Documents/*Deck*
+Documents/*Script*
+Documents/*Story*
+Documents/*LearnIt*
+Documents/*Pitch*
+Documents/*Mockup*
+Documents/*Executive*
+Documents/*Consulting*
+Documents/*One_Slide*

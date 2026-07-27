@@ -1,0 +1,5 @@
+Persona,AUVTarget,EBITDATarget,SSSTarget,SSTTarget,OLOTarget,LoyaltyTarget,FSATarget,OSATTarget,AccuracyTarget
+Corporate,38461,19.5,4.0,2.0,30,25,90,80,95
+Regional,38900,19.4,4.2,2.2,31,26,91,81,95
+FBC,39200,19.6,4.5,2.5,32,27,92,82,96
+Franchisee,41200,20.8,5.0,3.0,35,30,93,85,97

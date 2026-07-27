@@ -1,0 +1,157 @@
+# ════════════════════════════════════════════════════════════════════════
+# PRISM configuration — tune everything here, no code changes needed.
+# If this file is deleted or has a typo, PRISM falls back to the built-in
+# defaults in config.py and keeps running (a warning is printed).
+# ════════════════════════════════════════════════════════════════════════
+
+# Which Ref_Targets tier stores are graded against.
+# Must exist in Ref_Targets: Corporate | Regional | FBC | Franchisee
+target_persona: Franchisee
+
+# Max individual alert cards shown per run (patterns are unaffected by this).
+max_alerts: 12
+
+# LLM used ONLY for the optional per-card "AI" narration (never for detection).
+narrator_model: claude-sonnet-4-6
+
+# LLM used for the store-level agentic diagnosis (reason.py / agent_loop.py).
+reasoning_model: claude-sonnet-4-6
+
+# LLM used for the chat tab (natural-language -> SQL and the answer wording).
+chat_model: claude-sonnet-4-6
+
+# ── Weekly metrics the agent watches ───────────────────────────────────────
+# is_rate: true  -> compare in POINTS (latest - trailing), never a ratio.
+# point_drop_threshold / high_point_drop / critical_point_drop: point-drop bands.
+# min_target_gap / high_target_gap / critical_target_gap: below-target bands.
+# Calibrated from real data — see Documents/PRISM_Detection_Calibration.md.
+metrics:
+  SSS_Pct:
+    label: Same Store Sales Growth
+    direction: down_is_bad
+    trailing_weeks: 8
+    target_col: SSSTarget
+    is_rate: true
+    point_drop_threshold: 0.73
+    high_point_drop: 1.09
+    critical_point_drop: 1.81
+    min_target_gap: 3.0
+    high_target_gap: 6.0
+    critical_target_gap: 9.0
+    pct_drop_threshold: 25.0
+    unit: "%"
+  OSAT_Pct:
+    label: Customer Satisfaction (OSAT)
+    direction: down_is_bad
+    trailing_weeks: 8
+    target_col: OSATTarget
+    is_rate: true
+    point_drop_threshold: 1.70
+    high_point_drop: 2.55
+    critical_point_drop: 4.25
+    min_target_gap: 5.0
+    high_target_gap: 10.0
+    critical_target_gap: 15.0
+    pct_drop_threshold: 8.0
+    unit: "%"
+  EBITDA_Pct:
+    label: EBITDA Margin
+    direction: down_is_bad
+    trailing_weeks: 8
+    target_col: EBITDATarget
+    is_rate: true
+    point_drop_threshold: 0.73
+    high_point_drop: 1.09
+    critical_point_drop: 1.81
+    min_target_gap: 4.0
+    high_target_gap: 8.0
+    critical_target_gap: 12.0
+    pct_drop_threshold: 20.0
+    unit: "%"
+
+# ── Food safety (event-based audits, handled separately) ────────────────────
+fsa:
+  label: Food Safety Audit Score
+  target_col: FSATarget
+  critical_floor: 80.0        # any audit below this is automatically Critical
+  flag_below_target: false    # do NOT flag stores merely below the (aspirational) 93 target;
+                              # only a floor breach (< critical_floor) is a real food-safety alert.
+
+# ── Correlation rules: when a pattern fires + how patterns are ranked ───────
+patterns:
+  fbc_min_stores: 2           # >= this many stores under one FBC
+  area_director_min_stores: 3
+  region_min_stores: 3        # same region + same metric
+  multi_metric_min_metrics: 2 # one store failing >= this many metrics
+  score_weights:              # higher score = ranked/shown first
+    fbc_per_store: 10
+    area_director_per_store: 8
+    region_per_store: 7
+    multi_metric_per_metric: 12
+  max_patterns: 6             # cap on patterns shown
+
+# ── Cause-aware correlation (v2): when a shared-cause cohort counts as systemic ─
+# A cohort of one FBC's stores sharing the same diagnosed driver is only called
+# "systemic" if it clears ALL three bars. If none do, fall back to the looser rule.
+correlation:
+  min_stores: 3           # need at least this many stores...
+  min_share: 0.4          # ...and they must be >= this fraction of the FBC's diagnosed stores...
+  min_lift: 1.8           # ...and the driver must be >= this many times more common here than fleet-wide
+  fallback: true          # if nothing clears the bar, show the looser rule below (marked "Possible")
+  fallback_min_stores: 3  # looser fallback still needs >= this many stores (never a 2-store cluster)
+  # A driver that is broad rather than concentrated is a COMPANY-wide pattern (routed to leadership):
+  fleet_min_share: 0.35   # a driver at >= this share of ALL flagged stores...
+  fleet_min_regions: 3    # ...spread across >= this many regions...
+  fleet_min_fbcs: 4       # ...and >= this many FBCs -> a fleet-wide, company-level pattern
+
+# ── LEGACY global severity bands (percent drop as a positive magnitude) ─────
+# Used ONLY for non-rate metrics and the generic catch-all watch. Rate metrics
+# (is_rate: true) use their own per-metric point/target bands defined above.
+severity:
+  critical_pct_drop: 40       # statistical % drop >= this -> Critical
+  high_pct_drop: 25           # statistical % drop >= this -> High
+  high_target_gap: 6          # points below target >= this -> High
+
+# ── Diagnosis tuning ────────────────────────────────────────────────────────
+diagnosis:
+  sss_traffic_ticket_pct: 2.0 # +/- % move that counts as traffic- or ticket-driven
+
+# ── Optional catch-all watch ────────────────────────────────────────────────
+generic_watch:
+  enabled: false
+  pct_drop_threshold: 30
+  trailing_weeks: 8
+
+# ── Store-level agentic diagnosis (reason.py + ground.py / agent_loop.py) ───
+reasoning:
+  enabled: true
+  max_store_cards: 12
+  use_tools: true         # v2 agent — agent_loop.py investigates with tools (tools.py) and renders
+                          # the store_diagnosis card. Set false to revert to the single narration call.
+  max_tool_calls: 8       # investigation budget per store before the agent must conclude
+  cache: true
+  max_workers: 6          # how many store diagnoses to run in parallel per run
+
+# ── Insights export (the table/file a dashboard reads) ──────────────────────
+insights_export:
+  sqlite: true
+  csv: true
+  csv_path: insights_latest.csv
+  history_csv: false
+  history_csv_path: insights_history.csv
+
+# ── Recommended action per diagnosed driver — CURATE THIS WITH OPS ──────────
+playbook:
+  sss_traffic: "Traffic-led decline: focus on local marketing, LTO promotion and lapsed-loyalty win-back; verify hours and peak-daypart staffing."
+  sss_ticket: "Ticket-led decline: review discount/comp usage, promo mix and upsell/attachment execution at the line."
+  sss_both: "Both traffic and ticket are soft — treat as store health: FBC visit, verify operations and staffing, check local competitive pressure."
+  sss_comp: "Below-target sales with stable recent inputs — review the prior-year comp base and trade-area trends; focus on demand generation (local marketing, loyalty) rather than in-store execution."
+  osat_FoodQuality: "Food quality is the weakest guest driver — audit prep/hold times, portioning and freshness; re-certify line staff on food standards."
+  osat_Service: "Service is the weakest guest driver — review peak labor deployment and throughput; re-train on service standards."
+  osat_Cleanliness: "Cleanliness is the weakest guest driver — deep-clean, reset the cleaning-checklist cadence and re-train on sanitation SOP."
+  osat_Value: "Value is the weakest guest driver — review price/portion perception and loyalty/promo communication for this trade area."
+  fsa_finding: "Correct the cited priority finding, re-audit within the follow-up window, and re-train staff on the specific standard."
+  fsa_generic: "Score is below the safety floor — schedule an immediate corrective visit and re-audit; escalate to the Area Director."
+  ebitda_sales: "Margin pressure tracks a sales decline — recovering traffic/ticket should recover EBITDA; monitor after sales actions take hold."
+  ebitda_cost: "Margin is down without a matching sales drop — review food cost, waste and labor scheduling against volume."
+  generic: "Investigate the drivers behind this metric and confirm store operations."

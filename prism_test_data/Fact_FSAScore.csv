@@ -1,0 +1,21 @@
+AuditID,StoreID,FranchiseOwner,Region,AuditDate,FiscalYear,FiscalQuarter,FSA_Score,FirstPriorityFinding,SecondPriorityFinding,AuditorCode
+AUD-20001,#9001,West Holdings,Test-West,2025-01-15,2025,Q1,95,No priority findings,None,STR-01
+AUD-20002,#9001,West Holdings,Test-West,2025-03-10,2025,Q1,95,No priority findings,None,STR-02
+AUD-20003,#9002,West Holdings,Test-West,2025-01-15,2025,Q1,95,No priority findings,None,STR-01
+AUD-20004,#9002,West Holdings,Test-West,2025-03-10,2025,Q1,95,No priority findings,None,STR-02
+AUD-20005,#9003,West Holdings,Test-West,2025-01-15,2025,Q1,95,No priority findings,None,STR-01
+AUD-20006,#9003,West Holdings,Test-West,2025-03-10,2025,Q1,95,No priority findings,None,STR-02
+AUD-20007,#9004,East Holdings,Test-East,2025-01-15,2025,Q1,95,No priority findings,None,STR-01
+AUD-20008,#9004,East Holdings,Test-East,2025-03-10,2025,Q1,95,No priority findings,None,STR-02
+AUD-20009,#9005,East Holdings,Test-East,2025-01-15,2025,Q1,95,No priority findings,None,STR-01
+AUD-20010,#9005,East Holdings,Test-East,2025-03-10,2025,Q1,62,Cold-holding temperature out of range,None,STR-02
+AUD-20011,#9006,East Holdings,Test-East,2025-01-15,2025,Q1,95,No priority findings,None,STR-01
+AUD-20012,#9006,East Holdings,Test-East,2025-03-10,2025,Q1,88,Handwashing station unstocked,None,STR-02
+AUD-20013,#9007,East Holdings,Test-East,2025-01-15,2025,Q1,95,No priority findings,None,STR-01
+AUD-20014,#9007,East Holdings,Test-East,2025-03-10,2025,Q1,95,No priority findings,None,STR-02
+AUD-20015,#9010,North Holdings,Test-North,2025-01-15,2025,Q1,95,No priority findings,None,STR-01
+AUD-20016,#9010,North Holdings,Test-North,2025-03-10,2025,Q1,95,No priority findings,None,STR-02
+AUD-20017,#9011,North Holdings,Test-North,2025-01-15,2025,Q1,95,No priority findings,None,STR-01
+AUD-20018,#9011,North Holdings,Test-North,2025-03-10,2025,Q1,95,No priority findings,None,STR-02
+AUD-20019,#9012,North Holdings,Test-North,2025-01-15,2025,Q1,95,No priority findings,None,STR-01
+AUD-20020,#9012,North Holdings,Test-North,2025-03-10,2025,Q1,95,No priority findings,None,STR-02

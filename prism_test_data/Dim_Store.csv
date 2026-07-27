@@ -1,0 +1,11 @@
+StoreID,StoreNumber,City,Region,FranchiseOwner,AuditedThisQtr,FirstPriorityFinding,AreaDirector
+#9001,9001,Westford,Test-West,West Holdings,True,False,Dana Cole
+#9002,9002,Westgate,Test-West,West Holdings,True,False,Dana Cole
+#9003,9003,Westbrook,Test-West,West Holdings,True,False,Dana Cole
+#9004,9004,Eastburg,Test-East,East Holdings,True,False,Chris Bell
+#9005,9005,Easton,Test-East,East Holdings,True,False,Chris Bell
+#9006,9006,Eastvale,Test-East,East Holdings,True,False,Chris Bell
+#9007,9007,Eastland,Test-East,East Holdings,True,False,Chris Bell
+#9010,9010,Northgate,Test-North,North Holdings,True,False,Lee Park
+#9011,9011,Northvale,Test-North,North Holdings,True,False,Lee Park
+#9012,9012,Northbrook,Test-North,North Holdings,True,False,Lee Park

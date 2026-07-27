@@ -1,0 +1,127 @@
+StoreID,StoreNumber,City,Region,FranchiseOwner,AuditedThisQtr,FirstPriorityFinding,AreaDirector
+#8001,8001,Hartford,Northeast,Adelphi Holdings,True,False,James Okafor
+#8002,8002,Providence,Northeast,Adelphi Holdings,True,False,James Okafor
+#8003,8003,Boston,Northeast,Adelphi Holdings,True,False,James Okafor
+#8004,8004,Albany,Northeast,Adelphi Holdings,True,False,James Okafor
+#8005,8005,New York,Northeast,Boardwalk Restaurants,True,False,James Okafor
+#8006,8006,Hartford,Northeast,Boardwalk Restaurants,True,False,James Okafor
+#8007,8007,Manchester,Northeast,Boardwalk Restaurants,True,False,James Okafor
+#8008,8008,Providence,Northeast,Boardwalk Restaurants,True,False,James Okafor
+#8009,8009,New York,Northeast,Boardwalk Restaurants,True,False,James Okafor
+#8010,8010,Hartford,Northeast,Boardwalk Restaurants,True,False,James Okafor
+#8011,8011,Providence,Northeast,Cedar Hill Group,True,False,Mike Deluca
+#8012,8012,New York,Northeast,Cedar Hill Group,True,False,Mike Deluca
+#8013,8013,New York,Northeast,Cedar Hill Group,True,False,Mike Deluca
+#8014,8014,New York,Northeast,Cedar Hill Group,False,True,Mike Deluca
+#8015,8015,Manchester,Northeast,Cedar Hill Group,True,False,Mike Deluca
+#8016,8016,Boston,Northeast,Driftwood Foods,True,False,Mike Deluca
+#8017,8017,Manchester,Northeast,Driftwood Foods,True,False,Mike Deluca
+#8018,8018,Providence,Northeast,Driftwood Foods,True,False,Mike Deluca
+#8019,8019,Hartford,Northeast,Evergreen Capital,True,False,Mike Deluca
+#8020,8020,Albany,Northeast,Evergreen Capital,True,False,Mike Deluca
+#8021,8021,Providence,Northeast,Evergreen Capital,True,False,Mike Deluca
+#8022,8022,Albany,Northeast,Evergreen Capital,False,False,Mike Deluca
+#8023,8023,New York,Northeast,Evergreen Capital,True,False,Mike Deluca
+#8024,8024,Providence,Northeast,Evergreen Capital,True,False,Mike Deluca
+#8025,8025,Albany,Northeast,Evergreen Capital,True,False,Mike Deluca
+#8026,8026,Norfolk,Mid-Atlantic,Fairmount Brands,True,False,Laura Benton
+#8027,8027,Philadelphia,Mid-Atlantic,Fairmount Brands,True,False,Laura Benton
+#8028,8028,Norfolk,Mid-Atlantic,Fairmount Brands,True,False,Laura Benton
+#8029,8029,Wilmington,Mid-Atlantic,Fairmount Brands,True,False,Laura Benton
+#8030,8030,Richmond,Mid-Atlantic,Fairmount Brands,True,False,Laura Benton
+#8031,8031,Philadelphia,Mid-Atlantic,Garden State Subs,True,False,Laura Benton
+#8032,8032,Wilmington,Mid-Atlantic,Garden State Subs,True,False,Laura Benton
+#8033,8033,Washington DC,Mid-Atlantic,Garden State Subs,True,False,Laura Benton
+#8034,8034,Wilmington,Mid-Atlantic,Garden State Subs,False,False,Laura Benton
+#8035,8035,Norfolk,Mid-Atlantic,Harbor Restaurants,True,False,Greg Navarro
+#8036,8036,Norfolk,Mid-Atlantic,Harbor Restaurants,True,False,Greg Navarro
+#8037,8037,Philadelphia,Mid-Atlantic,Harbor Restaurants,True,False,Greg Navarro
+#8038,8038,Pittsburgh,Mid-Atlantic,Harbor Restaurants,True,True,Greg Navarro
+#8039,8039,Philadelphia,Mid-Atlantic,Harbor Restaurants,True,False,Greg Navarro
+#8040,8040,Wilmington,Mid-Atlantic,Harbor Restaurants,True,False,Greg Navarro
+#8041,8041,Pittsburgh,Mid-Atlantic,Ironbound Group,True,False,Chris Huang
+#8042,8042,Wilmington,Mid-Atlantic,Ironbound Group,True,False,Chris Huang
+#8043,8043,Wilmington,Mid-Atlantic,Ironbound Group,True,False,Chris Huang
+#8044,8044,Richmond,Mid-Atlantic,Jasper Quick-Serve,True,False,Denise Patel
+#8045,8045,Philadelphia,Mid-Atlantic,Jasper Quick-Serve,False,False,Denise Patel
+#8046,8046,Washington DC,Mid-Atlantic,Jasper Quick-Serve,True,False,Denise Patel
+#8047,8047,Richmond,Mid-Atlantic,Jasper Quick-Serve,True,False,Denise Patel
+#8048,8048,Norfolk,Mid-Atlantic,Jasper Quick-Serve,True,True,Denise Patel
+#8049,8049,Jacksonville,Southeast,Keystone Operations,True,True,Marcus Webb
+#8050,8050,Orlando,Southeast,Keystone Operations,True,False,Marcus Webb
+#8051,8051,Raleigh,Southeast,Keystone Operations,True,False,Marcus Webb
+#8052,8052,Atlanta,Southeast,Keystone Operations,True,False,Marcus Webb
+#8053,8053,Nashville,Southeast,Keystone Operations,False,False,Marcus Webb
+#8054,8054,Jacksonville,Southeast,Keystone Operations,False,False,Marcus Webb
+#8055,8055,Nashville,Southeast,Lakeside Foods,True,False,Yolanda Cruz
+#8056,8056,Jacksonville,Southeast,Lakeside Foods,False,False,Yolanda Cruz
+#8057,8057,Tampa,Southeast,Lakeside Foods,True,False,Yolanda Cruz
+#8058,8058,Raleigh,Southeast,Lakeside Foods,True,False,Yolanda Cruz
+#8059,8059,Jacksonville,Southeast,Meridian Restaurants,True,False,Allison Drake
+#8060,8060,Tampa,Southeast,Meridian Restaurants,True,False,Allison Drake
+#8061,8061,Orlando,Southeast,Meridian Restaurants,True,False,Allison Drake
+#8062,8062,Atlanta,Southeast,Meridian Restaurants,False,False,Allison Drake
+#8063,8063,Raleigh,Southeast,Meridian Restaurants,True,False,Allison Drake
+#8064,8064,Nashville,Southeast,Meridian Restaurants,True,False,Allison Drake
+#8065,8065,Charlotte,Southeast,Meridian Restaurants,True,False,Allison Drake
+#8066,8066,Nashville,Southeast,Northstar Brands,True,False,Yolanda Cruz
+#8067,8067,Charlotte,Southeast,Northstar Brands,True,False,Yolanda Cruz
+#8068,8068,Nashville,Southeast,Northstar Brands,False,False,Yolanda Cruz
+#8069,8069,Jacksonville,Southeast,Northstar Brands,True,False,Yolanda Cruz
+#8070,8070,Jacksonville,Southeast,Northstar Brands,True,False,Yolanda Cruz
+#8071,8071,Raleigh,Southeast,Oakridge Holdings,True,False,Allison Drake
+#8072,8072,Orlando,Southeast,Oakridge Holdings,True,False,Allison Drake
+#8073,8073,Jacksonville,Southeast,Oakridge Holdings,True,True,Allison Drake
+#8074,8074,Indianapolis,Midwest,Pinewood Capital,True,False,Derek Laufer
+#8075,8075,Columbus,Midwest,Pinewood Capital,True,True,Derek Laufer
+#8076,8076,St. Louis,Midwest,Pinewood Capital,False,False,Derek Laufer
+#8077,8077,Indianapolis,Midwest,Pinewood Capital,True,False,Derek Laufer
+#8078,8078,Detroit,Midwest,Pinewood Capital,True,False,Derek Laufer
+#8079,8079,Indianapolis,Midwest,Quail Run Foods,True,False,Carla Moss
+#8080,8080,Cincinnati,Midwest,Quail Run Foods,True,False,Carla Moss
+#8081,8081,Detroit,Midwest,Quail Run Foods,True,False,Carla Moss
+#8082,8082,Indianapolis,Midwest,Quail Run Foods,True,False,Carla Moss
+#8083,8083,Detroit,Midwest,Ridgefield Restaurants,True,False,Megan Thornton
+#8084,8084,Milwaukee,Midwest,Ridgefield Restaurants,False,False,Megan Thornton
+#8085,8085,Milwaukee,Midwest,Ridgefield Restaurants,True,False,Megan Thornton
+#8086,8086,Milwaukee,Midwest,Ridgefield Restaurants,True,False,Megan Thornton
+#8087,8087,Detroit,Midwest,Ridgefield Restaurants,True,False,Megan Thornton
+#8088,8088,St. Louis,Midwest,Ridgefield Restaurants,True,False,Megan Thornton
+#8089,8089,Chicago,Midwest,Summit Operators,True,False,Megan Thornton
+#8090,8090,Milwaukee,Midwest,Summit Operators,True,False,Megan Thornton
+#8091,8091,Columbus,Midwest,Summit Operators,True,False,Megan Thornton
+#8092,8092,St. Louis,Midwest,Trailhead Brands,True,False,Carla Moss
+#8093,8093,Milwaukee,Midwest,Trailhead Brands,False,True,Carla Moss
+#8094,8094,St. Louis,Midwest,Trailhead Brands,True,True,Carla Moss
+#8095,8095,Chicago,Midwest,Trailhead Brands,True,False,Carla Moss
+#8096,8096,Chicago,Midwest,Trailhead Brands,True,False,Carla Moss
+#8097,8097,Phoenix,West,Urban Edge Group,False,False,Kristin Luehring
+#8098,8098,Seattle,West,Urban Edge Group,True,True,Kristin Luehring
+#8099,8099,Denver,West,Urban Edge Group,False,False,Kristin Luehring
+#8100,8100,Denver,West,Urban Edge Group,True,False,Kristin Luehring
+#8101,8101,San Diego,West,Urban Edge Group,True,False,Kristin Luehring
+#8102,8102,Seattle,West,Urban Edge Group,True,True,Kristin Luehring
+#8103,8103,Phoenix,West,Valley Forge Foods,True,False,Jason Tran
+#8104,8104,Seattle,West,Valley Forge Foods,True,False,Jason Tran
+#8105,8105,Salt Lake City,West,Valley Forge Foods,True,False,Jason Tran
+#8106,8106,Phoenix,West,Valley Forge Foods,True,False,Jason Tran
+#8107,8107,Phoenix,West,Westport Holdings,True,False,Ryan Brusseau
+#8108,8108,Seattle,West,Westport Holdings,True,False,Ryan Brusseau
+#8109,8109,Los Angeles,West,Westport Holdings,True,False,Ryan Brusseau
+#8110,8110,Denver,West,Westport Holdings,True,False,Ryan Brusseau
+#8111,8111,Denver,West,Westport Holdings,False,False,Ryan Brusseau
+#8112,8112,Salt Lake City,West,Yorktown Subs,True,False,Ryan Brusseau
+#8113,8113,Las Vegas,West,Yorktown Subs,True,False,Ryan Brusseau
+#8114,8114,Sacramento,West,Yorktown Subs,True,True,Ryan Brusseau
+#8115,8115,San Diego,West,Zenith Restaurants,False,False,Amber Fisk
+#8116,8116,Phoenix,West,Zenith Restaurants,True,False,Amber Fisk
+#8117,8117,Seattle,West,Zenith Restaurants,True,False,Amber Fisk
+#8118,8118,Phoenix,West,Zenith Restaurants,False,False,Amber Fisk
+#8119,8119,San Diego,West,Zenith Restaurants,True,False,Amber Fisk
+#8120,8120,Denver,West,Zenith Restaurants,False,False,Amber Fisk
+#8121,8121,Las Vegas,West,Zenith Restaurants,True,False,Amber Fisk
+#18013,18013,Seattle/Tacoma,West,Brett Lewis,True,False,Ryan Brusseau
+#18020,18020,Seattle/Tacoma,West,Brett Lewis,True,False,Kristin Luehring
+#18031,18031,Seattle/Tacoma,West,Brett Lewis,True,False,Ryan Brusseau
+#18024,18024,Seattle/Tacoma,West,Brett Lewis,True,False,Kristin Luehring
+#18030,18030,Seattle/Tacoma,West,Brett Lewis,True,False,Kristin Luehring
